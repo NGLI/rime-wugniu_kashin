@@ -36,3 +36,11 @@
 
 徐越:《嘉善方言音系》,2005
 
+## 聯繫
+
+- [吳語學堂](https://www.wugniu.com/)
+
+## 致謝
+
+- [Rime](https://rime.im/)
+
