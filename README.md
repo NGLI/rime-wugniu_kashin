@@ -14,6 +14,12 @@
 
 [rime-wugniu_kashin Wiki](https://github.com/NGLI/rime-wugniu_kashin/wiki)
 
+## 安裝方法
+
+- [Windows](https://github.com/NGLI/rime-wugniu#windows-1)
+- [Linux、macOS](https://github.com/NGLI/rime-wugniu#linuxmacos-1)
+- [Android](https://github.com/NGLI/rime-wugniu#android-1)
+
 ## 參考資料
 
 ### 桐鄉
