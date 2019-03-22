@@ -1,14 +1,18 @@
 # 嘉興（五縣兩區）吳語拼音輸入方案
 
-基於[Rime中州韻輸入法引擎](https://rime.im/)的嘉興吳語拼音輸入法。
+配方： ℞ **wugniu_kashin**
 
-提供五個地方的輸入法，分別爲：
+基於[Rime](https://rime.im/)的嘉興吳語拼音輸入方案。
 
-- 桐鄉 `wugniu_donshian`
-- 海寧 `wugniu_haegnin`
-- 海鹽 `wugniu_haeye`
-- 嘉興 `wugniu_kashin`
-- 嘉善 `wugniu_kazoe`
+含五個地方的輸入方案：
+
+- 桐鄉
+- 海寧
+- 海鹽
+- 嘉興
+- 嘉善
+
+拼音方案爲[吳語學堂](https://www.wugniu.com/)式拼音。
 
 ## 幫助文檔
 
@@ -43,11 +47,19 @@
 
 徐越:《嘉善方言音系》,2005
 
-## 聯繫
+## 字詞查詢
 
-- [吳語學堂](https://www.wugniu.com/)
+- https://www.wugniu.com/
 
 ## 致謝
 
 - [Rime](https://rime.im/)
+- [Trime](https://github.com/osfans/trime)
 
+## 聯繫
+
+吳語學堂：
+
+- QQ群：46520589
+- 微信公衆號：wu_gniu
+- 微博：吳語學堂
