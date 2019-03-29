@@ -1,6 +1,6 @@
 # 嘉興（五縣兩區）吳語拼音輸入方案
 
-配方： ℞ **`wugniu_kashin`**
+配方： ℞ **NGLI/wugniu_kashin**
 
 基於[Rime](https://rime.im/)的嘉興吳語拼音輸入方案。
 
@@ -51,10 +51,11 @@
 
 - https://www.wugniu.com/
 
-## 致謝
+## 鳴謝
 
 - [Rime](https://rime.im/)
 - [Trime](https://github.com/osfans/trime)
+- [iRime](https://github.com/jimmy54/iRime)
 
 ## 聯繫
 
