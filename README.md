@@ -25,6 +25,12 @@
 - [Linux](https://ngli.github.io/rime-wugniu/安装方法/Linux.html)
 - [Android](https://ngli.github.io/rime-wugniu/安装方法/Android.html)
 
+## 使用
+
+- [模糊音](https://ngli.github.io/rime-wugniu/使用/模糊音.html)
+- [輸入提示](https://ngli.github.io/rime-wugniu/使用/输入提示.html)
+- [反查](https://ngli.github.io/rime-wugniu/使用/反查.html)
+
 ## 參考資料
 
 ### 桐鄉
