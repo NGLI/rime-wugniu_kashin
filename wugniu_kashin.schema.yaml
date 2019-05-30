@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_kashin
   name: 吳語（嘉興）
-  version: "2019.05.07"
+  version: "2019.05.30"
   author:
     - 字表作者：雪心居士˂sihsin@live.com˃
     - 字表作者：步履躊躇
@@ -77,7 +77,7 @@ speller:
 
     # 聲母簡拼
     - abbrev/^([a-z]).+$/$1/
-    - abbrev/^([pmtnlszkg]h|ng|ngh|tsh).+$/$1/
+    - abbrev/^([pmtnlszckg]h|ng|ngh|tsh).+$/$1/
     # 容錯 au => ao
     - derive/au/ao/
     # c組聲母後自動加i
