@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_kashin
   name: 吳語（嘉興）
-  version: "2019.05.30"
+  version: "2019.06.07"
   author:
     - 字表作者：雪心居士˂sihsin@live.com˃
     - 字表作者：步履躊躇
@@ -62,6 +62,7 @@ speller:
   alphabet: abcdefghijklmnopqrstuvwxyz
   delimiter: " '"
   algebra:
+    - xform/^([b-df-hj-np-tv-z])$/$1_/
     # 去掉聲調
     - xform/\d//
 
