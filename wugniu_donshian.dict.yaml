@@ -1,11 +1,16 @@
 # Rime dictionary		
 # encoding: utf-8		
-#		
+#
+# wugniu_donshian - 吳語（桐鄉）
+#
+# Author:
+#
+# - 雪心居士˂sihsin@live.com˃
 #		
 		
 ---		
 name: wugniu_donshian		
-version: "2019.3.2"		
+version: "2019.09.15"		
 sort: by_weight		
 use_preset_vocabulary: true		
 ...		
@@ -1311,6 +1316,7 @@ use_preset_vocabulary: true
 琥	fu3	
 虎	fu3	
 夥	fu3	
+伙	fu3	
 火	fu3	
 唬	fu3	
 黼	fu3	
@@ -1614,6 +1620,7 @@ use_preset_vocabulary: true
 年	gnie2	
 嚴	gnie2	
 巖	gnie2	
+岩	gnie2	
 閻	gnie2	
 元	gnie2	
 邧	gnie2	
@@ -2030,6 +2037,7 @@ use_preset_vocabulary: true
 櫻	in1	
 鸚	in1	
 蔭	in1	
+廕	in1	
 陰	in1	
 音	in1	
 喑	in1	
@@ -2705,6 +2713,7 @@ use_preset_vocabulary: true
 嬲	gniau3	
 嬈	gniau3	
 裊	gniau3	
+嫋	gniau3	
 鳥	gniau3	
 尿	gniau3	
 拈	gnie1	
@@ -3633,6 +3642,7 @@ use_preset_vocabulary: true
 綿	mie2	
 面	mie6	
 麵	mie6	
+麪	mie6	
 民	min2	
 岷	min2	
 名	min2	
@@ -3676,6 +3686,7 @@ use_preset_vocabulary: true
 忙	mon2	
 磨	mon2	
 朦	mon2	
+懞	mon2	
 檬	mon2	
 濛	mon2	
 瞢	mon2	
@@ -4517,6 +4528,7 @@ use_preset_vocabulary: true
 饗	shian3	
 嚮	shian5	
 向	shian5	
+曏	shian5	
 享	shian5	
 謔	shiaq7	
 枵	shiau1	
@@ -5381,6 +5393,7 @@ use_preset_vocabulary: true
 照	tsau5	
 罩	tsau5	
 噪	tsau5	
+譟	tsau5	
 躁	tsau5	
 曌	tsau5	
 笊	tsau5	
@@ -5788,6 +5801,7 @@ use_preset_vocabulary: true
 柒	tshiq7	
 慼	tshiq7	
 戚	tshiq7	
+鏚	tshiq7	
 漆	tshiq7	
 切	tshiq7	
 沏	tshiq7	
@@ -6472,6 +6486,7 @@ use_preset_vocabulary: true
 旺	waon6	
 晃	waon6	
 劃	waq8	
+划	waq8	
 滑	waq8	
 猾	waq8	
 剗	waq8	
@@ -6621,6 +6636,7 @@ use_preset_vocabulary: true
 峽	yaq8	
 協	yaq8	
 藥	yaq8	
+葯	yaq8	
 叶	yaq8	
 龠	yaq8	
 瀹	yaq8	
@@ -6669,6 +6685,7 @@ use_preset_vocabulary: true
 鉉	ye2	
 筵	ye2	
 巖	ye2	
+岩	ye2	
 延	ye2	
 蜒	ye2	
 涎	ye2	
@@ -6902,6 +6919,7 @@ use_preset_vocabulary: true
 雄	yon2	
 滎	yon2	
 傭	yon6	
+佣	yon6	
 學	yoq8	
 役	yoq8	
 疫	yoq8	
@@ -6966,6 +6984,7 @@ use_preset_vocabulary: true
 壯	zaon4	
 緔	zaon4	
 臓	zaon6	
+臟	zaon6	
 藏	zaon6	
 狀	zaon6	
 上	zaon6	
@@ -7006,6 +7025,7 @@ use_preset_vocabulary: true
 造	zau4	
 趙	zau4	
 皂	zau4	
+皁	zau4	
 肇	zau4	
 召	zau6	
 紹	zau6	
@@ -7589,6 +7609,7 @@ use_preset_vocabulary: true
 外	gha6	0%
 言	ghae2	0%
 巖	ghae2	0%
+岩	ghae2	0%
 洋	ghan2	0%
 吾	ghoq8	0%
 何	ghoq8	0%
@@ -7623,7 +7644,7 @@ use_preset_vocabulary: true
 加	kaq8	0%
 阿哥	a keu	
 南無阿彌陀佛	na mau au mi du veq	
-肴料	au liau	
+餚料	au liau	
 棒冰	baon pin	
 別人家	beq gnin ka	
 葡萄	beq dau	
@@ -7643,10 +7664,10 @@ use_preset_vocabulary: true
 阿拉	ghaq la	
 阿倷	ghaq neu	
 我倷	ghoq neu	
-何里	ghoq li	
+何裏	ghoq li	
 幾何	ci ho	
 帶孝	ta hau	
-吊孝	tiau hau	
+弔孝	tiau hau	
 尉遲	iq zy	
 幼稚班	ieu zy pae	
 万俟	moq ji	
@@ -7657,7 +7678,7 @@ use_preset_vocabulary: true
 咖哩粉	ka laq fen	
 羊垃圾	yan leq seq	
 立夏	li gho	
-路游器	loq yeu chi	
+路遊器	loq yeu chi	
 馬虎	ma hu	
 馬虎	ma fu	
 晚豆	mae deu	
@@ -7696,7 +7717,7 @@ use_preset_vocabulary: true
 翨𦑜	cieq kua	
 一粒糖	iq leq daon	
 鷂子	yau tsy	
-咸菜甏	ghae tshe ban	
+鹹菜甏	ghae tshe ban	
 鉋子	bau tsy	
 瀑雨	bau i	
 鵓鴣	bu ko	
@@ -7768,7 +7789,7 @@ use_preset_vocabulary: true
 無線網	vu sie uaon	
 活拉	weq la	
 活倷	weq neu	
-何里	woq li	
+何裏	woq li	
 著急	zaq jiq	
 着急	zaq jiq	
 長假	zan cia	
@@ -7841,12 +7862,12 @@ use_preset_vocabulary: true
 一刮兩響		
 一券		
 一刻弗停	iq kheq feq din	
-一周時		
+一週時		
 一味	iq vi	
 一帖藥		
 一店		
 一念		
-一抬		
+一擡		
 一拉		
 一枕		
 一枝		
@@ -7883,7 +7904,7 @@ use_preset_vocabulary: true
 一個老早	iq keu lau tsau	
 一個花甲	iq keu ho ciaq	
 一個省	iq keu san	
-一准		
+一準		
 一員		
 一家	iq ka	
 一家一當	iq ka iq taon	
@@ -7956,7 +7977,7 @@ use_preset_vocabulary: true
 一照		
 一瞄		
 一窠		
-一群		
+一羣		
 一腳一手		
 一腳去		
 一腳落手		
@@ -8095,7 +8116,7 @@ use_preset_vocabulary: true
 了弗起		
 了它		
 了伐	liau va	
-了如		
+瞭如		
 了而	liau er	
 了吧		
 了呀		
@@ -8111,8 +8132,8 @@ use_preset_vocabulary: true
 了這		
 了得		
 了清		
-了游		
-了然		
+了遊		
+瞭然		
 了結		
 了債		
 了嗎		
@@ -8185,7 +8206,7 @@ use_preset_vocabulary: true
 二季	gni ci	
 二屆	gni cia	
 二屆	gni ka	
-二弦	gni ye	
+二絃	gni ye	
 二房	gni vaon	
 二杯	gni pi	
 二板	gni pae	
@@ -8216,7 +8237,7 @@ use_preset_vocabulary: true
 二倍		
 二員		
 二哥		
-二娘		
+二孃		
 二晚	gni vae	
 二氧		
 二流		
@@ -8379,7 +8400,7 @@ use_preset_vocabulary: true
 人堆	gnin ti	
 人情	gnin zin	
 人梯	gnin thi	
-人欲		
+人慾		
 人眼	gnin ae	
 人販	gnin fae	
 人傑		
@@ -8396,7 +8417,7 @@ use_preset_vocabulary: true
 人煙		
 人猿		
 人瑞		
-人群		
+人羣		
 人腦	gnin nau	
 人跡		
 人際	gnin tsi	
@@ -8549,7 +8570,7 @@ use_preset_vocabulary: true
 十里洋場		
 十亞烏糟		
 十佳		
-十周		
+十週		
 十屆		
 十信		
 十指		
@@ -8699,7 +8720,7 @@ use_preset_vocabulary: true
 三角棱草		
 三和土	sae wu thu	
 三姐		
-三弦		
+三絃		
 三苗		
 三金		
 三青四綠		
@@ -8785,7 +8806,7 @@ use_preset_vocabulary: true
 上你		
 上即		
 上完		
-上床		
+上牀		
 上找		
 上把		
 上拋		
@@ -8821,7 +8842,7 @@ use_preset_vocabulary: true
 上個	zaon keq	
 上個月	zaon keq yiq	
 上個月	zaon keu yiq	
-上唇		
+上脣		
 上家		
 上將		
 上席		
@@ -8839,8 +8860,8 @@ use_preset_vocabulary: true
 上馬		
 上尉		
 上望		
-上梁年糕		
-上梁酒		
+上樑年糕		
+上樑酒		
 上貨		
 上喙		
 上場		
@@ -8941,7 +8962,7 @@ use_preset_vocabulary: true
 下作		
 下作坯	o tsoq phi	
 下作胚		
-下床		
+下牀		
 下我		
 下把戲		
 下沉	shia zen	
@@ -8986,7 +9007,7 @@ use_preset_vocabulary: true
 下個	o keu	
 下個月	o keu yiq	
 下個月	o keq yiq	
-下唇		
+下脣		
 下家		
 下座		
 下挫		
@@ -9221,15 +9242,15 @@ use_preset_vocabulary: true
 也變脫		
 也讓		
 也蠻好		
-于七		
+於七		
 于于		
-于今		
+於今		
 于田		
 于思		
-于是		
-于飛		
-于歸		
-于闐		
+於是		
+於飛		
+於歸		
+於闐		
 亡了		
 亡友		
 亡夫		
@@ -9890,7 +9911,7 @@ use_preset_vocabulary: true
 子婿		
 子葉		
 子項		
-子群		
+子羣		
 子說		
 子貍		
 子數		
@@ -9932,7 +9953,7 @@ use_preset_vocabulary: true
 小即零丁		
 小坑		
 小姊妹		
-小床		
+小牀		
 小弄弄		
 小弟		
 小村		
@@ -10069,7 +10090,7 @@ use_preset_vocabulary: true
 山陰		
 山區		
 山崩		
-山梁		
+山樑		
 山景		
 山間		
 山隘		
@@ -10097,7 +10118,7 @@ use_preset_vocabulary: true
 工於		
 工長		
 工架		
-工致		
+工緻		
 工區		
 工場		
 工期		
@@ -10137,8 +10158,8 @@ use_preset_vocabulary: true
 已離		
 已屬		
 干休		
-干吼		
-干貝		
+乾吼		
+乾貝		
 干擾		
 幺二三角落		
 幺二角落		
@@ -10326,6 +10347,7 @@ use_preset_vocabulary: true
 不借		
 不倦		
 不值		
+不準		
 不准		
 不容		
 不屑		
@@ -10457,7 +10479,7 @@ use_preset_vocabulary: true
 不禁		
 不經		
 不置		
-不群		
+不羣		
 不義		
 不與		
 不裝		
@@ -10572,7 +10594,7 @@ use_preset_vocabulary: true
 中共		
 中灰		
 中衣		
-中岳		
+中嶽		
 中明		
 中服		
 中波		
@@ -10815,7 +10837,7 @@ use_preset_vocabulary: true
 五呎		
 五姊		
 五局		
-五床		
+五牀		
 五弟		
 五戒		
 五折		
@@ -10825,11 +10847,11 @@ use_preset_vocabulary: true
 五見		
 五角		
 五言	ng gnie	
-五谷		
+五穀		
 五里		
 五兩		
 五具		
-五周		
+五週		
 五味		
 五坪		
 五夜		
@@ -10881,7 +10903,7 @@ use_preset_vocabulary: true
 五員		
 五哥		
 五家		
-五峰		
+五峯		
 五師		
 五席		
 五拳		
@@ -11079,7 +11101,7 @@ use_preset_vocabulary: true
 仍顯		
 允承		
 允許		
-元凶		
+元兇		
 元日	gnie gnieq	
 元月	gnie yiq	
 元任	gnie zen	
@@ -11236,7 +11258,7 @@ use_preset_vocabulary: true
 公服		
 公物		
 公信		
-公厘		
+公釐		
 公屋		
 公差		
 公映		
@@ -11278,7 +11300,7 @@ use_preset_vocabulary: true
 六如		
 六弟		
 六里		
-六周		
+六週		
 六姑		
 六信		
 六祖		
@@ -11287,7 +11309,7 @@ use_preset_vocabulary: true
 六家		
 六條		
 六畜		
-六欲		
+六慾		
 六嫂		
 六朝		
 六萬		
@@ -11295,12 +11317,12 @@ use_preset_vocabulary: true
 六穀粉		
 兮皺百襇		
 冗多		
-冗余		
+冗餘		
 冗長		
 冗員		
 冗繁		
-凶光		
-凶相		
+兇光		
+兇相		
 分一		
 分了		
 分下	fen o	
@@ -11413,7 +11435,7 @@ use_preset_vocabulary: true
 分會		
 分當		
 分節		
-分群		
+分羣		
 分腿		
 分號		
 分解	fen cia	
@@ -11630,7 +11652,7 @@ use_preset_vocabulary: true
 天倉		
 天啊		
 天條		
-天疱瘡		
+天皰瘡		
 天陰		
 天馬		
 天乾		
@@ -11661,7 +11683,7 @@ use_preset_vocabulary: true
 太行		
 太妙		
 太明		
-太松		
+太鬆		
 太長		
 太差		
 太胖		
@@ -11824,7 +11846,7 @@ use_preset_vocabulary: true
 引物	in veq	
 引者		
 引信	in sin	
-引荐		
+引薦		
 引著	in zaq	
 引着	in zaq	
 引爲		
@@ -11839,9 +11861,9 @@ use_preset_vocabulary: true
 心邪		
 心冷		
 心折		
-心系		
+心繫		
 心肝		
-心弦		
+心絃		
 心念		
 心怡		
 心所		
@@ -11960,14 +11982,14 @@ use_preset_vocabulary: true
 文讀音		
 斗大		
 斗升小民		
-斗牛		
+鬥牛		
 方口		
-方才		
+方纔		
 方且	faon tshi	
 方包		
 方生	faon sen	
 方有		
-方志		
+方誌		
 方言	faon gnie	
 方言志	faon gnie tsy	
 方言歌	faon gnie ku	
@@ -12227,7 +12249,7 @@ use_preset_vocabulary: true
 木耳		
 木行	moq ghan	
 木匣		
-木床		
+木牀		
 木材店		
 木牢牢		
 木拖板		
@@ -12465,7 +12487,7 @@ use_preset_vocabulary: true
 牙汙		
 牙污		
 牙肉		
-牙床		
+牙牀		
 牙泉		
 牙缸		
 牙祭		
@@ -12490,7 +12512,7 @@ use_preset_vocabulary: true
 牛倌		
 牛耕		
 牛馬		
-牛群		
+牛羣		
 牛頓		
 牛對馬對		
 牛鞅		
@@ -12542,7 +12564,7 @@ use_preset_vocabulary: true
 世仇		
 世交		
 世行		
-世界杯		
+世界盃		
 世相		
 世家		
 世博會		
@@ -12720,7 +12742,7 @@ use_preset_vocabulary: true
 以解	i cia	
 以對		
 以說		
-兄台		
+兄臺		
 兄弟		
 兄弟道理		
 兄姐		
@@ -12903,7 +12925,7 @@ use_preset_vocabulary: true
 加塞		
 加溫		
 加盟		
-加群		
+加羣		
 加蓋		
 加蓬		
 加號		
@@ -12937,7 +12959,7 @@ use_preset_vocabulary: true
 包住		
 包你		
 包扶		
-包谷		
+包穀		
 包車		
 包治		
 包乘		
@@ -13079,7 +13101,7 @@ use_preset_vocabulary: true
 半邊風		
 半懸		
 占卜		
-占駐		
+佔駐		
 卡及		
 卡住		
 卡利		
@@ -13199,7 +13221,7 @@ use_preset_vocabulary: true
 另找		
 另覓		
 另設		
-另辟		
+另闢		
 叨叨		
 叨光		
 叨咕		
@@ -13339,10 +13361,10 @@ use_preset_vocabulary: true
 台山		
 台安		
 台州		
-台甫		
-台筆		
-台駕		
-台鑒		
+臺甫		
+臺筆		
+臺駕		
+臺鑒		
 叱責		
 叱喝		
 史地		
@@ -13506,7 +13528,7 @@ use_preset_vocabulary: true
 外攘		
 外顯		
 央元音		
-央托		
+央託		
 央行	ian ghaon	
 夯出		
 失去		
@@ -13521,7 +13543,7 @@ use_preset_vocabulary: true
 失陷		
 失望		
 失責		
-失群		
+失羣		
 失調		
 失學		
 失聲		
@@ -13537,7 +13559,7 @@ use_preset_vocabulary: true
 奶油小生		
 奶哄香		
 奶香		
-奶娘		
+奶孃		
 奶臭		
 奶黃		
 奶塊		
@@ -13594,7 +13616,7 @@ use_preset_vocabulary: true
 左旋		
 左糞		
 左彎		
-巧干		
+巧幹		
 巧用		
 巧合		
 巧言	chiau gnie	
@@ -13609,16 +13631,16 @@ use_preset_vocabulary: true
 巨手		
 巨玉		
 巨石		
-巨作		
-巨制		
-巨商		
+鉅作		
+鉅製		
+鉅商		
 巨細		
-巨著		
+鉅著		
 巨着		
-巨鹿		
+鉅鹿		
 巨傘		
-巨富		
-巨款		
+鉅富		
+鉅款		
 巨痛		
 巨禍		
 巨賈		
@@ -13636,7 +13658,7 @@ use_preset_vocabulary: true
 巨變		
 市內		
 市外		
-市里		
+市裏		
 市況		
 市長	zy tsan	
 市梢		
@@ -13653,7 +13675,7 @@ use_preset_vocabulary: true
 市聲	zy sen	
 市屬	zy zoq	
 布丁		
-布下		
+佈下		
 布什		
 布拉		
 布衫		
@@ -13873,7 +13895,7 @@ use_preset_vocabulary: true
 打他		
 打仗		
 打出		
-打扑克		
+打撲克		
 打白客		
 打早		
 打死		
@@ -13888,7 +13910,7 @@ use_preset_vocabulary: true
 打沒潭		
 打私		
 打車		
-打制		
+打製		
 打和		
 打怵		
 打拚		
@@ -13920,7 +13942,7 @@ use_preset_vocabulary: true
 打單		
 打場		
 打棚		
-打滑跶		
+打滑躂		
 打滑澾		
 打煞		
 打腳		
@@ -14019,7 +14041,7 @@ use_preset_vocabulary: true
 未看		
 未計		
 未退		
-未准		
+未準		
 未哩	mi li	
 未料		
 未時		
@@ -14479,7 +14501,7 @@ use_preset_vocabulary: true
 甲型		
 甲某		
 甲級		
-甲胄		
+甲冑		
 甲骨		
 甲基		
 甲寅		
@@ -14500,7 +14522,7 @@ use_preset_vocabulary: true
 申請認證		
 甴曱		
 白人	baq gnin	
-白干		
+白乾		
 白切羊肉		
 白日	baq gnieq	
 白日	baq zeq	
@@ -14562,7 +14584,7 @@ use_preset_vocabulary: true
 皮大王	bi da waon	
 皮老虎		
 皮夾	bi kaq	
-皮皂		
+皮皁		
 皮拆天		
 皮的		
 皮茄克	bi jia kheq	
@@ -14735,7 +14757,7 @@ use_preset_vocabulary: true
 交往		
 交易		
 交保		
-交哄		
+交鬨		
 交差		
 交待		
 交拜		
@@ -14866,7 +14888,7 @@ use_preset_vocabulary: true
 份額		
 仿古	faon ku	
 仿生	faon sen	
-仿佛	faon veq	
+彷彿	faon veq	
 仿宋		
 仿冒	faon mau	
 仿效	faon yau	
@@ -14941,7 +14963,7 @@ use_preset_vocabulary: true
 休眠		
 休耕		
 休假		
-休戚		
+休慼		
 休提		
 休閒		
 休想		
@@ -14955,7 +14977,7 @@ use_preset_vocabulary: true
 休戰		
 休整		
 休謨		
-伙夫		
+伙伕		
 伙食		
 充分		
 充水		
@@ -15194,7 +15216,7 @@ use_preset_vocabulary: true
 冰光		
 冰帆		
 冰肌		
-冰床		
+冰牀		
 冰城		
 冰室		
 冰毒		
@@ -15220,10 +15242,10 @@ use_preset_vocabulary: true
 刑期	yin ji	
 划行		
 划拳		
-划動		
+劃動		
 划艇		
 划算		
-划槳		
+劃槳		
 列夫		
 列日		
 列好		
@@ -15267,7 +15289,7 @@ use_preset_vocabulary: true
 危迫		
 危怠		
 危害		
-危峰		
+危峯		
 危象		
 各一		
 各人		
@@ -15298,7 +15320,7 @@ use_preset_vocabulary: true
 合弗出	gheq veq tsheq	
 合水		
 合乎		
-合扑睏		
+合撲睏		
 合用		
 合共		
 合同		
@@ -15326,7 +15348,7 @@ use_preset_vocabulary: true
 合訂		
 合計		
 合音		
-合家	gheq ka	
+閤家	gheq ka	
 合格		
 合流		
 合起	gheq chi	
@@ -15334,7 +15356,7 @@ use_preset_vocabulary: true
 合唱團		
 合情		
 合理		
-合眼	gheq ae	
+閤眼	gheq ae	
 合眾		
 合著		
 合着		
@@ -15345,7 +15367,7 @@ use_preset_vocabulary: true
 合爲		
 合意		
 合照		
-合群		
+合羣		
 合腮		
 合腳		
 合資		
@@ -15378,18 +15400,18 @@ use_preset_vocabulary: true
 吊勾		
 吊在		
 吊死		
-吊床		
+吊牀		
 吊車		
 吊放		
 吊射		
 吊桿		
 吊著		
 吊着		
-吊煙囱		
+吊煙囪		
 吊煞		
 吊煞鬼		
 吊膀子		
-吊臂		
+弔臂		
 吊籃		
 吊鹽水		
 同一個	don iq keq	
@@ -15411,7 +15433,7 @@ use_preset_vocabulary: true
 同住		
 同你		
 同吾		
-同床		
+同牀		
 同形		
 同我		
 同步		
@@ -15458,7 +15480,7 @@ use_preset_vocabulary: true
 名車		
 名兒		
 名店		
-名表		
+名錶		
 名茶		
 名家		
 名將		
@@ -15489,9 +15511,9 @@ use_preset_vocabulary: true
 吐蕃		
 吐蕊		
 回了		
-回天		
-回心		
-回文		
+迴天		
+迴心		
+迴文		
 回乎		
 回他		
 回去		
@@ -15509,20 +15531,20 @@ use_preset_vocabulary: true
 回門		
 回信		
 回屋		
-回音		
+迴音		
 回家		
 回校		
 回條		
-回流		
+迴流		
 回敘		
 回教		
 回報門		
 回韌		
 回填		
 回聘		
-回路		
+迴路		
 回嘴回舌		
-回避		
+迴避		
 回還		
 回頭		
 回頭生意		
@@ -15569,7 +15591,7 @@ use_preset_vocabulary: true
 在西		
 在作		
 在你		
-在床		
+在牀		
 在其		
 在於		
 在明		
@@ -15613,12 +15635,12 @@ use_preset_vocabulary: true
 地火燒		
 地他		
 地北		
-地台		
+地臺		
 地外		
 地瓜		
 地用		
 地她		
-地志		
+地誌		
 地角		
 地到		
 地坪		
@@ -15641,7 +15663,7 @@ use_preset_vocabulary: true
 地高頭		
 地區		
 地問	di ven	
-地梁		
+地樑		
 地陽		
 地堡		
 地富		
@@ -15702,8 +15724,8 @@ use_preset_vocabulary: true
 多活		
 多要		
 多風		
-多個		
 多个		
+多個		
 多家		
 多晚		
 多能		
@@ -15746,7 +15768,7 @@ use_preset_vocabulary: true
 夷人	yi gnin	
 夷族		
 夸特		
-夸張		
+誇張		
 奸刁		
 奸臣		
 奸相		
@@ -15809,7 +15831,7 @@ use_preset_vocabulary: true
 好人	hau gnin	
 好大	hau du	
 好不		
-好丑		
+好醜		
 好天		
 好手腳		
 好日	hau gnieq	
@@ -16024,7 +16046,7 @@ use_preset_vocabulary: true
 守擂		
 安了	e liau	
 安人	e gnin	
-安于		
+安於		
 安內		
 安分		
 安心樂意	e sin loq i	
@@ -16172,16 +16194,16 @@ use_preset_vocabulary: true
 成這		
 成塊		
 成爲		
-成群		
+成羣		
 成團		
 成說		
 成鳳		
 成趣		
 成癖		
-托托		
-托板		
-托洞		
-托缽		
+託託		
+託板		
+託洞		
+託缽		
 扚扚頭		
 扚肉		
 扚背		
@@ -16191,7 +16213,7 @@ use_preset_vocabulary: true
 扣住		
 扣架		
 扣率		
-扣眼		
+釦眼		
 扣脫個		
 扣脫个		
 扣喫		
@@ -16231,7 +16253,7 @@ use_preset_vocabulary: true
 收撫		
 收燥		
 收繳		
-旨肴		
+旨餚		
 旨是		
 旨趣		
 旨歸		
@@ -16267,12 +16289,12 @@ use_preset_vocabulary: true
 旮旮旯旯		
 曲江		
 曲折		
-曲卷		
+曲捲		
 曲波		
 曲草		
-曲酒		
+麴酒		
 曲率		
-曲菌		
+麴菌		
 曲棍		
 曲解	chioq cia	
 曲種		
@@ -16466,13 +16488,13 @@ use_preset_vocabulary: true
 朱子		
 朱丹		
 朱文		
-朱批		
+硃批		
 朱門		
 朱紅		
 朱紅慘綠		
 朱茵		
 朱虹		
-朱逢尧		
+朱逢堯		
 朱啟		
 朱雀		
 朱頂		
@@ -16572,8 +16594,8 @@ use_preset_vocabulary: true
 死神		
 死背		
 死胎		
-死胡同		
-死面		
+死衚衕		
+死麪		
 死鬼		
 死浜		
 死症		
@@ -16693,7 +16715,7 @@ use_preset_vocabulary: true
 灰紫		
 灰塌塌		
 灰漠		
-灰蒙蒙		
+灰濛濛		
 灰蝶		
 灰鴨蛋		
 牟尼		
@@ -16744,7 +16766,7 @@ use_preset_vocabulary: true
 竹爿頭		
 竹北		
 竹匠		
-竹床		
+竹牀		
 竹哨		
 竹馬		
 竹黃		
@@ -16777,7 +16799,7 @@ use_preset_vocabulary: true
 羊舍		
 羊氣瘋		
 羊圈		
-羊群		
+羊羣		
 羊腿		
 羊臊氣		
 羽化	i ho	
@@ -16788,7 +16810,7 @@ use_preset_vocabulary: true
 老人家		
 老十三		
 老三老四		
-老么		
+老幺		
 老大		
 老大姑娘	lau du ku gnian	
 老小夥子 	lau siau fu tsy	
@@ -16861,7 +16883,7 @@ use_preset_vocabulary: true
 老个		
 老倌		
 老倌阿嬤		
-老娘		
+老孃		
 老孫		
 老家		
 老將		
@@ -16917,7 +16939,7 @@ use_preset_vocabulary: true
 考查		
 考研		
 考風		
-考核		
+考覈		
 考區		
 考問		
 考進		
@@ -17044,7 +17066,7 @@ use_preset_vocabulary: true
 肉皮		
 肉陀		
 肉油		
-肉炖蛋		
+肉燉蛋		
 肉段		
 肉紅		
 肉食		
@@ -17074,7 +17096,7 @@ use_preset_vocabulary: true
 肋棚骨		
 肌注		
 肌腱		
-肌群		
+肌羣		
 臣僚		
 自討苦喫		
 自大	zy da	
@@ -17165,7 +17187,7 @@ use_preset_vocabulary: true
 色鬼		
 色衰		
 色酒		
-色欲		
+色慾		
 色淡		
 色釉		
 色暈		
@@ -17338,10 +17360,10 @@ use_preset_vocabulary: true
 西曬		
 西曬日頭		
 西灣		
-迂回		
+迂迴		
 迄未	chiq vi	
 迅跑		
-邢台	yin de	
+邢臺	yin de	
 那人		
 那又		
 那也		
@@ -17377,7 +17399,7 @@ use_preset_vocabulary: true
 那裏		
 那間		
 那會		
-那群		
+那羣		
 那麼		
 那墳		
 那樁		
@@ -17569,13 +17591,13 @@ use_preset_vocabulary: true
 低了		
 低下		
 低分		
-低回		
+低迴		
 低至		
 低於		
 低限		
 低映		
 低埋		
-低峰		
+低峯		
 低格		
 低能		
 低陷		
@@ -17650,12 +17672,12 @@ use_preset_vocabulary: true
 何談		
 何懼		
 佘山		
-余油		
-余姚		
-余溫		
-余種		
-余慶		
-余錢		
+餘油		
+餘姚		
+餘溫		
+餘種		
+餘慶		
+餘錢		
 佚失	yiq seq	
 佚名	yiq min	
 佛山		
@@ -17770,8 +17792,8 @@ use_preset_vocabulary: true
 你講		
 你願		
 你讓		
-克日		
-克制		
+剋日		
+剋制		
 克拉		
 克強		
 克裏		
@@ -17786,7 +17808,7 @@ use_preset_vocabulary: true
 免予		
 免去		
 免官		
-免征		
+免徵		
 免於		
 免責		
 免進		
@@ -17897,7 +17919,7 @@ use_preset_vocabulary: true
 別學	biq ghoq	
 刨土		
 刨坑		
-刨床		
+刨牀		
 刨飯		
 利人		
 利刀		
@@ -17909,7 +17931,7 @@ use_preset_vocabulary: true
 利朗		
 利根		
 利馬		
-利欲		
+利慾		
 利淡		
 利率		
 利鈿		
@@ -17985,7 +18007,7 @@ use_preset_vocabulary: true
 君命		
 君恩		
 吞下		
-吞咽		
+吞嚥		
 吞食		
 吞剝		
 吞頭		
@@ -18128,7 +18150,7 @@ use_preset_vocabulary: true
 吻合		
 吻耳		
 吻吮		
-吻唇		
+吻脣		
 吻頸		
 吼了		
 吼叫		
@@ -18207,13 +18229,13 @@ use_preset_vocabulary: true
 囥過	khaon ku	
 困了		
 困人		
-困乏		
+睏乏		
 困死		
 困住		
 困於		
 困的		
 困苦		
-困倦		
+睏倦		
 困煞		
 困頓		
 困擾		
@@ -18415,7 +18437,7 @@ use_preset_vocabulary: true
 尾羽		
 尾住		
 尾形		
-尾注		
+尾註		
 尾段		
 尾眉		
 尾追		
@@ -18443,7 +18465,7 @@ use_preset_vocabulary: true
 尿出狗		
 尿血		
 尿尿		
-尿床		
+尿牀		
 尿炕		
 尿哄臭		
 尿急		
@@ -18466,8 +18488,8 @@ use_preset_vocabulary: true
 局內	jioq nyi	
 局好		
 局長	jioq tsan	
-局限		
-局促		
+侷限		
+侷促		
 局級		
 局氣		
 局麻		
@@ -18485,23 +18507,23 @@ use_preset_vocabulary: true
 希望		
 希臘		
 希魔		
-床上		
-床位		
-床沿		
-床前		
-床架		
-床柱		
-床單		
-床罩		
-床腳		
-床墊		
-床榻		
-床褥		
-床鋪		
-床橫頭		
-床頭		
-床頭櫃		
-床邊		
+牀上		
+牀位		
+牀沿		
+牀前		
+牀架		
+牀柱		
+牀單		
+牀罩		
+牀腳		
+牀墊		
+牀榻		
+牀褥		
+牀鋪		
+牀橫頭		
+牀頭		
+牀頭櫃		
+牀邊		
 弄人	lon gnin	
 弄火		
 弄孛相		
@@ -18608,7 +18630,7 @@ use_preset_vocabulary: true
 忤逆種		
 忤違		
 快了		
-快干		
+快乾		
 快手快腳		
 快手腳		
 快去		
@@ -18741,8 +18763,8 @@ use_preset_vocabulary: true
 扶弱		
 扶疏		
 批分數		
-批回		
-批核		
+批迴		
+批覈		
 批假		
 批復		
 批量生產		
@@ -18757,7 +18779,7 @@ use_preset_vocabulary: true
 找岔		
 找些		
 找個		
-找准		
+找準		
 找啊		
 找著		
 找着		
@@ -18803,7 +18825,7 @@ use_preset_vocabulary: true
 投人生	deu zen sen	
 投人身	deu gnin sen	
 投下	deu o	
-投于投六		
+投於投六		
 投五投六	deu ng deu loq	
 投以		
 投石		
@@ -18837,7 +18859,7 @@ use_preset_vocabulary: true
 折半		
 折本		
 折光		
-折合		
+摺合		
 折回		
 折成		
 折扣		
@@ -18851,7 +18873,7 @@ use_preset_vocabulary: true
 折耗		
 折衷		
 折辱		
-折椅		
+摺椅		
 折福		
 折腰		
 折墮		
@@ -18867,7 +18889,7 @@ use_preset_vocabulary: true
 折彎		
 折疊		
 折讓		
-抛錨		
+拋錨		
 拋入		
 拋下		
 拋光		
@@ -19027,11 +19049,11 @@ use_preset_vocabulary: true
 杜馬		
 杜做主張		
 杜塞		
-杠子		
-杠夫		
-杠杆		
-杠鈴		
-杠頭		
+槓子		
+槓夫		
+槓桿		
+槓鈴		
+槓頭		
 步弓		
 步伐	bu vaq	
 步行	bu yin	
@@ -19148,7 +19170,7 @@ use_preset_vocabulary: true
 沒哪能		
 沒面孔		
 沒個		
-沒准		
+沒準		
 沒能		
 沒乾		
 沒動力		
@@ -19179,7 +19201,7 @@ use_preset_vocabulary: true
 沖口		
 沖出		
 沖向		
-沖床		
+沖牀		
 沖來		
 沖昏		
 沖勁		
@@ -19249,7 +19271,7 @@ use_preset_vocabulary: true
 泛紅		
 泛濫		
 泛讀		
-灶頭		
+竈頭		
 灼見		
 灼面		
 災年		
@@ -19298,10 +19320,10 @@ use_preset_vocabulary: true
 甸邑		
 甸服		
 甸師		
-皂片		
-皂角		
-皂莢		
-皂隸		
+皁片		
+皁角		
+皁莢		
+皁隸		
 盯人		
 盯死		
 盯防		
@@ -19315,7 +19337,7 @@ use_preset_vocabulary: true
 社區		
 社教		
 社會		
-社群		
+社羣		
 社戲		
 禿著		
 禿着		
@@ -19343,7 +19365,7 @@ use_preset_vocabulary: true
 私物		
 私家		
 私拿		
-私欲		
+私慾		
 私費		
 私會		
 私圖		
@@ -19352,17 +19374,17 @@ use_preset_vocabulary: true
 私囊		
 究其		
 究根		
-系了		
-系上		
-系好		
-系扣		
+繫了		
+繫上		
+繫好		
+係扣		
 系呀		
-系牢		
+繫牢		
 系於		
-系指		
+係指		
 系帶		
 系著		
-系着		
+繫着		
 系統化		
 系嗎		
 系緊		
@@ -19441,7 +19463,7 @@ use_preset_vocabulary: true
 花車	ho tsho	
 花辰光	ho zen kuaon	
 花兒		
-花卷	ho cie	
+花捲	ho cie	
 花呢		
 花枝	ho tsy	
 花肥	ho vi	
@@ -19566,7 +19588,7 @@ use_preset_vocabulary: true
 角角浪向		
 角角落落		
 角角頭		
-角岩		
+角巖		
 角浪		
 角索		
 角馬		
@@ -19602,7 +19624,7 @@ use_preset_vocabulary: true
 言歸	gnie kui	
 言辭	gnie zy	
 言歡	gnie hue	
-谷米		
+穀米		
 谷底		
 豆沙	deu so	
 豆沙色	deu so seq	
@@ -19715,7 +19737,7 @@ use_preset_vocabulary: true
 車臣		
 車行		
 車位		
-車床		
+車牀		
 車技		
 車把		
 車身		
@@ -19833,7 +19855,7 @@ use_preset_vocabulary: true
 里安		
 里拉		
 里長		
-里海		
+裏海		
 阻尼		
 阻住		
 阻梗		
@@ -19902,8 +19924,8 @@ use_preset_vocabulary: true
 阿飛	aq fi	
 阿們		
 阿倫		
-阿娘	aq gnian	
-阿娘		
+阿孃	aq gnian	
+阿孃		
 阿根廷	aq ken din	
 阿桑	aq saon	
 阿爹	aq tia	
@@ -19991,15 +20013,15 @@ use_preset_vocabulary: true
 並轉		
 並願		
 乖人	kua gnin	
-乳娘		
-乳峰		
+乳孃		
+乳峯		
 乳臭	zy tsheu	
 乳缽		
 乳源		
 乳漿		
 乳膠		
 事工		
-事干		
+事幹		
 事不		
 事件		
 事兒	zy er	
@@ -20168,7 +20190,7 @@ use_preset_vocabulary: true
 供住		
 供佛		
 供其		
-供制		
+供製		
 供案		
 依仗		
 依此		
@@ -20193,7 +20215,7 @@ use_preset_vocabulary: true
 兒歌	er ku	
 兒戲	er shi	
 兔子燈		
-兔唇		
+兔脣		
 兔崽		
 兔燈		
 兩人		
@@ -20284,7 +20306,7 @@ use_preset_vocabulary: true
 刮皮鬼		
 刮油		
 刮破		
-刮起		
+颳起		
 刮進		
 刮鼻頭		
 刮積瀉		
@@ -20310,17 +20332,17 @@ use_preset_vocabulary: true
 到題		
 制伏		
 制住		
-制法		
+製法		
 制是		
 制約		
-制革		
+製革		
 制粉		
-制假		
-制做		
-制售		
-制爲		
+製假		
+製做		
+製售		
+製爲		
 制發		
-制程		
+製程		
 刷地		
 刷拉		
 刷屏		
@@ -20362,14 +20384,14 @@ use_preset_vocabulary: true
 協約		
 協會		
 協調		
-卷心菜		
+捲心菜		
 卷宗		
 卷帙		
 卷面		
 卷紙		
 卷軸		
 卷頭髮		
-叔台		
+叔臺		
 叔伯		
 叔娘		
 叔接嫂		
@@ -20446,7 +20468,7 @@ use_preset_vocabulary: true
 呵癢嬉嬉		
 呵護		
 呼叫		
-呼台		
+呼臺		
 呼吆		
 呼啦		
 呼聲	hu sen	
@@ -20459,7 +20481,7 @@ use_preset_vocabulary: true
 和血		
 和那		
 和社		
-和弦		
+和絃		
 和金		
 和南		
 和約		
@@ -20498,7 +20520,7 @@ use_preset_vocabulary: true
 坦摯		
 垂下		
 垂死		
-垂范		
+垂範		
 垂涎		
 垂盼		
 垂問		
@@ -20555,7 +20577,7 @@ use_preset_vocabulary: true
 奇出怪樣		
 奇作		
 奇拔		
-奇松		
+奇鬆		
 奇的		
 奇俠		
 奇香		
@@ -20627,7 +20649,7 @@ use_preset_vocabulary: true
 姓劉		
 姓盧		
 委任		
-委托		
+委託		
 委員		
 委蛇		
 委會		
@@ -20646,7 +20668,7 @@ use_preset_vocabulary: true
 孤苦		
 孤城		
 孤孩		
-孤峰		
+孤峯		
 孤弱		
 孤鳥	ku tiau	
 孤單		
@@ -20690,7 +20712,7 @@ use_preset_vocabulary: true
 定有		
 定住		
 定見		
-定制		
+定製		
 定於		
 定受		
 定相		
@@ -20757,14 +20779,14 @@ use_preset_vocabulary: true
 屈從		
 屈駕	chiq ka	
 岩石		
-岩床		
-岩岸		
-岩洞		
-岩相		
-岩畫		
-岩壁		
-岩縫		
-岩灘		
+岩牀		
+巖岸		
+巖洞		
+巖相		
+巖畫		
+巖壁		
+巖縫		
+巖灘		
 岬角		
 岳州		
 岳家		
@@ -20826,8 +20848,8 @@ use_preset_vocabulary: true
 建網		
 建賬		
 弦月	ye yiq	
-弦音		
-弦歌		
+絃音		
+絃歌		
 弦樂		
 弦聲	ye sen	
 弧月		
@@ -20848,10 +20870,10 @@ use_preset_vocabulary: true
 往還		
 征夫		
 征伐		
-征訂		
-征辟		
-征管		
-征繳		
+徵訂		
+徵辟		
+徵管		
+徵繳		
 忠心度		
 忠君		
 忠孝		
@@ -20859,10 +20881,10 @@ use_preset_vocabulary: true
 忠於		
 忠信		
 念及	gniae jiq	
-念叨	gniae tau	
+唸叨	gniae tau	
 念好	gniae hau	
 念成	gniae zen	
-念到	gniae tau	
+唸到	gniae tau	
 念珠	gniae tsy	
 念起	gniae chi	
 念得	gniae teq	
@@ -20912,7 +20934,7 @@ use_preset_vocabulary: true
 性命交關		
 性能		
 性起		
-性欲		
+性慾		
 性惡		
 性慌		
 性感		
@@ -20981,7 +21003,7 @@ use_preset_vocabulary: true
 所立		
 所在		
 所困		
-所系		
+所繫		
 所花		
 所見		
 所言	su gnie	
@@ -21018,7 +21040,7 @@ use_preset_vocabulary: true
 所變		
 承上		
 承兌		
-承制		
+承製		
 承奉		
 承前		
 承恩		
@@ -21038,26 +21060,26 @@ use_preset_vocabulary: true
 披紅		
 披瀝		
 披灑		
-抬出		
-抬扛		
-抬老三		
-抬杠		
-抬步		
-抬走		
-抬起		
-抬高		
-抬眼		
-抬筐		
-抬愛		
-抬腳		
-抬腿		
-抬槍		
-抬槓		
-抬價		
-抬舉		
-抬頭		
-抬糞		
-抬轎		
+擡出		
+擡扛		
+擡老三		
+擡槓		
+擡步		
+擡走		
+擡起		
+擡高		
+擡眼		
+擡筐		
+擡愛		
+擡腳		
+擡腿		
+擡槍		
+擡槓		
+擡價		
+擡舉		
+擡頭		
+擡糞		
+擡轎		
 抱住		
 抱負		
 抱娘娘		
@@ -21070,7 +21092,7 @@ use_preset_vocabulary: true
 抵住		
 抵免		
 抵京		
-抵牾		
+牴牾		
 抵掌		
 抵港		
 抵塞		
@@ -21123,10 +21145,10 @@ use_preset_vocabulary: true
 拂曉		
 拂醒		
 拄舌頭		
-拄拐棒		
-担心事		
-担怕		
-担點啥		
+拄柺棒		
+擔心事		
+擔怕		
+擔點啥		
 拆了		
 拆下		
 拆分		
@@ -21161,9 +21183,9 @@ use_preset_vocabulary: true
 拉伸		
 拉住		
 拉尿		
-拉床		
+拉牀		
 拉扯		
-拉杆		
+拉桿		
 拉車		
 拉近		
 拉到		
@@ -21186,7 +21208,7 @@ use_preset_vocabulary: true
 拉起來		
 拉高		
 拉動		
-拉帶胡子		
+拉帶鬍子		
 拉康		
 拉票		
 拉進		
@@ -21229,9 +21251,9 @@ use_preset_vocabulary: true
 拍照相		
 拍攝		
 拎弗清	lin veq tshin	
-拐子		
-拐杖		
-拐棍		
+柺子		
+柺杖		
+柺棍		
 拐腳		
 拓印		
 拓地		
@@ -21248,7 +21270,7 @@ use_preset_vocabulary: true
 拔長		
 拔涉		
 拔得		
-拔群		
+拔羣		
 拖入		
 拖下去		
 拖下來		
@@ -21289,7 +21311,7 @@ use_preset_vocabulary: true
 拗彆		
 拘役		
 拘束	ci soq	
-拘系		
+拘繫		
 拘押	ci aq	
 拘泥		
 拘限	ci ae	
@@ -21328,7 +21350,7 @@ use_preset_vocabulary: true
 招幹		
 放下	faon o	
 放大	faon du	
-放心托膽		
+放心託膽		
 放生	faon sen	
 放白鴿		
 放伊一碼	faon yi iq mo	
@@ -21399,10 +21421,10 @@ use_preset_vocabulary: true
 昂強	ghaon jian	
 昂視		
 昂貴	ghaon kui	
-昆山		
-昆曲		
+崑山		
+崑曲		
 昆侖		
-昆腔		
+崑腔		
 昆劇		
 昆騰		
 昇力		
@@ -21541,7 +21563,7 @@ use_preset_vocabulary: true
 東厾西摜		
 東江		
 東吳		
-東床		
+東牀		
 東南		
 東施		
 東家		
@@ -21567,11 +21589,11 @@ use_preset_vocabulary: true
 松日		
 松江		
 松枝		
-松寬		
-松蘿		
+鬆寬		
+鬆蘿		
 板扎		
 板主		
-板床		
+板牀		
 板車		
 板兒		
 板刷頭		
@@ -21598,7 +21620,7 @@ use_preset_vocabulary: true
 枕上		
 枕在		
 枕芯		
-枕席		
+枕蓆		
 枕墊		
 枕藉		
 林下		
@@ -21657,7 +21679,7 @@ use_preset_vocabulary: true
 河汊		
 河防		
 河伯		
-河床		
+河牀		
 河沙		
 河肥		
 河南		
@@ -21813,7 +21835,7 @@ use_preset_vocabulary: true
 波俏		
 波段		
 波音		
-波峰		
+波峯		
 波恩		
 波旁		
 波流		
@@ -21934,7 +21956,7 @@ use_preset_vocabulary: true
 爭豔		
 爸爸		
 爸媽		
-牀横頭		
+牀橫頭		
 版二		
 版型		
 牧人		
@@ -21942,7 +21964,7 @@ use_preset_vocabulary: true
 牧馬		
 牧區		
 牧場		
-牧群		
+牧羣		
 物力		
 物化		
 物主		
@@ -21959,7 +21981,7 @@ use_preset_vocabulary: true
 物流		
 物情		
 物探		
-物欲		
+物慾		
 物理		
 物產		
 物象		
@@ -22218,21 +22240,21 @@ use_preset_vocabulary: true
 育肥		
 育紅		
 育樂		
-肴饌		
+餚饌		
 肺心		
 肺葉	fi yiq	
 肺熱		
 肺頭		
 臥下		
 臥地		
-臥床		
+臥牀		
 臥車		
 臥射		
 臥著		
 臥着		
-舍己		
+捨己		
 舍弗得	so veq teq	
-舍去		
+捨去		
 舍利		
 舍弟		
 舍姆娘		
@@ -22241,7 +22263,7 @@ use_preset_vocabulary: true
 苔蘚		
 苕溪	diau chi	
 苗人		
-苗床		
+苗牀		
 苗圃		
 苗條		
 苗瑤		
@@ -22337,7 +22359,7 @@ use_preset_vocabulary: true
 英華		
 英尋		
 英磅		
-苹菇蕈		
+蘋菇蕈		
 茁壯		
 茁實		
 茂名		
@@ -22454,9 +22476,9 @@ use_preset_vocabulary: true
 述略		
 述說		
 述懷		
-郁友		
-郁江		
-郁郁		
+鬱友		
+鬱江		
+鬱郁		
 郅治		
 郊區		
 郎女		
@@ -22776,7 +22798,7 @@ use_preset_vocabulary: true
 青泥苔		
 青苔		
 青宮		
-青峰		
+青峯		
 青紗		
 青萍		
 青蛇		
@@ -22837,7 +22859,7 @@ use_preset_vocabulary: true
 俄頃		
 俊郎		
 俊俏		
-俊峰		
+俊峯		
 俊眼		
 俊鳥		
 俏皮		
@@ -22862,7 +22884,7 @@ use_preset_vocabulary: true
 保你		
 保姆		
 保長		
-保准		
+保準		
 保家		
 保息		
 保真		
@@ -23028,7 +23050,7 @@ use_preset_vocabulary: true
 前於		
 前室		
 前是		
-前个		
+前個		
 前晚		
 前浪		
 前記		
@@ -23206,13 +23228,13 @@ use_preset_vocabulary: true
 卻對		
 卻說		
 卻變		
-厘正		
-厘米		
-厘定		
+釐正		
+釐米		
+釐定		
 厚大	eu du	
 厚皮		
 厚呢	eu gni	
-厚兹納得		
+厚茲納得		
 厚望	eu mon	
 厚樸		
 厚積		
@@ -23235,15 +23257,15 @@ use_preset_vocabulary: true
 受着		
 受測		
 受落		
-受雇		
+受僱		
 受傷个		
 受罪		
 受電		
 受懲		
 咧開		
 咧嘴		
-咨文		
-咨照		
+諮文		
+諮照		
 咪咪		
 咪咪細		
 咪唑		
@@ -23273,8 +23295,8 @@ use_preset_vocabulary: true
 咳喘		
 咳痰		
 咳嗽		
-咽下		
-咽住		
+嚥下		
+嚥住		
 咽炎		
 咽哽		
 咽喉		
@@ -23287,10 +23309,10 @@ use_preset_vocabulary: true
 品鑒		
 哄人	hon gnin	
 哄死		
-哄抬		
-哄笑		
+哄擡		
+鬨笑		
 哄場		
-哄然		
+鬨然		
 哄搶		
 哄鬧		
 哄瞞		
@@ -23468,7 +23490,7 @@ use_preset_vocabulary: true
 屋面		
 屋脊		
 屋基		
-屋梁		
+屋樑		
 屋頂		
 屋裏		
 屋裏向		
@@ -23531,7 +23553,7 @@ use_preset_vocabulary: true
 幽思		
 幽昧		
 幽泉		
-幽秘		
+幽祕		
 幽然		
 幽夢		
 幽微		
@@ -23735,7 +23757,7 @@ use_preset_vocabulary: true
 恆轉		
 恘天氣		
 恘癟三		
-恤金		
+卹金		
 恨不		
 恨弗得	ghen veq teq	
 恨他		
@@ -23949,7 +23971,7 @@ use_preset_vocabulary: true
 星期		
 星湖		
 星搬場		
-星群		
+星羣		
 星盤		
 星緣		
 映入	in zeq	
@@ -24090,7 +24112,7 @@ use_preset_vocabulary: true
 架型		
 架屋		
 架接		
-架梁		
+架樑		
 架線		
 枸杞		
 枸櫞		
@@ -24174,7 +24196,7 @@ use_preset_vocabulary: true
 查音		
 查哨		
 查庫		
-查核		
+查覈		
 查案		
 查殺		
 查訊		
@@ -24337,7 +24359,7 @@ use_preset_vocabulary: true
 洋油燈		
 洋泡泡		
 洋炮		
-洋籼米		
+洋秈米		
 洋紅		
 洋面		
 洋風爐		
@@ -24472,7 +24494,7 @@ use_preset_vocabulary: true
 炸沉		
 炸破		
 炸煞		
-炸群		
+炸羣		
 炸鍋		
 炸燬		
 炸斷		
@@ -24555,7 +24577,7 @@ use_preset_vocabulary: true
 相交		
 相仿		
 相合		
-相克		
+相剋		
 相助		
 相即		
 相呆		
@@ -24728,7 +24750,7 @@ use_preset_vocabulary: true
 研究		
 研究生		
 研究个		
-研制		
+研製		
 研杵		
 研析		
 研修		
@@ -24842,7 +24864,7 @@ use_preset_vocabulary: true
 突感		
 突審		
 竿黃		
-籼米		
+秈米		
 籽兒		
 籽晶		
 籽種		
@@ -24912,7 +24934,7 @@ use_preset_vocabulary: true
 紅花	ghon ho	
 紅角		
 紅豆		
-紅松		
+紅鬆		
 紅河		
 紅的		
 紅股		
@@ -24926,7 +24948,7 @@ use_preset_vocabulary: true
 紅柳		
 紅茶		
 紅軍		
-紅唇		
+紅脣		
 紅娘		
 紅桃		
 紅案		
@@ -25016,7 +25038,7 @@ use_preset_vocabulary: true
 美芹		
 美言	mi gnie	
 美乳		
-美制		
+美製		
 美味		
 美差		
 美帝		
@@ -25053,10 +25075,10 @@ use_preset_vocabulary: true
 胃脯		
 胃袋		
 胃寒		
-背人		
+揹人		
 背反		
 背心		
-背包		
+揹包		
 背光		
 背向		
 背在		
@@ -25080,10 +25102,10 @@ use_preset_vocabulary: true
 背陰		
 背帶		
 背得		
-背梁脊骨		
+背樑脊骨		
 背眼		
 背著		
-背着		
+揹着		
 背累		
 背過		
 背景		
@@ -25131,7 +25153,7 @@ use_preset_vocabulary: true
 胞姐		
 胞波		
 胡人		
-胡子叭嗒		
+鬍子叭嗒		
 胡夫		
 胡瓜		
 胡佛		
@@ -25179,11 +25201,11 @@ use_preset_vocabulary: true
 草約		
 草食		
 草孫		
-草席		
+草蓆		
 草浪		
 草莓		
 草莖		
-草庵		
+草菴		
 草率		
 草蛇		
 草魚		
@@ -25206,7 +25228,7 @@ use_preset_vocabulary: true
 荊花		
 荊柯		
 荊條		
-荐任		
+薦任		
 荒坡		
 荒林		
 荒敗		
@@ -25217,7 +25239,7 @@ use_preset_vocabulary: true
 荔枝		
 莛子		
 虐戀		
-蚤虱		
+蚤蝨		
 衍生	ie sen	
 衍射		
 衲子		
@@ -25432,7 +25454,7 @@ use_preset_vocabulary: true
 迷城		
 迷悟		
 迷夢		
-迷蒙		
+迷濛		
 迷朦		
 迷癡		
 迸坼		
@@ -25559,7 +25581,7 @@ use_preset_vocabulary: true
 重生		
 重任		
 重合		
-重托		
+重託		
 重於		
 重物		
 重拾		
@@ -25641,9 +25663,9 @@ use_preset_vocabulary: true
 除蟲		
 面孔		
 面生		
-面皮		
+麪皮		
 面交		
-面坊		
+麪坊		
 面批		
 面折		
 面角		
@@ -25658,7 +25680,7 @@ use_preset_vocabulary: true
 面湯水		
 面無		
 面結骨		
-面塑		
+麪塑		
 面層		
 面熟陌生		
 面頰		
@@ -25786,7 +25808,7 @@ use_preset_vocabulary: true
 食素		
 食堂		
 食宿		
-食欲		
+食慾		
 食缽		
 食道		
 食量		
@@ -26004,7 +26026,7 @@ use_preset_vocabulary: true
 倒會		
 倒箱囡兒		
 倒豎		
-倒霉		
+倒黴		
 倒竈		
 倔強		
 倘不		
@@ -26034,14 +26056,14 @@ use_preset_vocabulary: true
 倚翠		
 倚賴		
 借了		
-借口		
-借手		
-借由		
+藉口		
+藉手		
+藉由		
 借光		
-借此		
+藉此		
 借自		
 借住		
-借助		
+藉助		
 借車		
 借段牙		
 借條		
@@ -26049,7 +26071,7 @@ use_preset_vocabulary: true
 借宿		
 借帳		
 借進		
-借端		
+藉端		
 借調		
 借機		
 借轉來		
@@ -26097,16 +26119,16 @@ use_preset_vocabulary: true
 冥暗		
 冥頑		
 准予		
-准沒		
-准足		
-准定		
-准保		
-准度		
-准是		
-准能		
+準沒		
+準足		
+準定		
+準保		
+準度		
+準是		
+準能		
 准假		
-准許		
-准線		
+準許		
+準線		
 凋枯		
 凋敗		
 凌人		
@@ -26218,18 +26240,18 @@ use_preset_vocabulary: true
 哽著		
 哽着		
 哽塞		
-唇舌		
-唇吻		
-唇形		
-唇紅		
-唇音		
-唇部		
-唇裂		
-唇槍		
-唇膏		
-唇齒		
-唇邊		
-唇瓣		
+脣舌		
+脣吻		
+脣形		
+脣紅		
+脣音		
+脣部		
+脣裂		
+脣槍		
+脣膏		
+脣齒		
+脣邊		
+脣瓣		
 唐上		
 唐花		
 唐捐		
@@ -26287,14 +26309,14 @@ use_preset_vocabulary: true
 奘貓		
 娘大囡大	gnian du no du	
 娘兒	gnian er	
-娘姨		
-娘胎		
+孃姨		
+孃胎		
 娘哰囡兒		
 娘哰兒子		
 娘娘		
 娘娘拉		
-娘家	gnian ka	
-娘舅		
+孃家	gnian ka	
+孃舅		
 娘親		
 娛樂	gni loq	
 娟媚		
@@ -26355,7 +26377,7 @@ use_preset_vocabulary: true
 家小		
 家山		
 家中		
-家什		
+傢什		
 家公		
 家父		
 家犬		
@@ -26368,7 +26390,7 @@ use_preset_vocabulary: true
 家母		
 家生		
 家用		
-家伙		
+傢伙		
 家在	cia ze	
 家她	cia tha	
 家宅		
@@ -26376,7 +26398,7 @@ use_preset_vocabulary: true
 家有	cia ieu	
 家臣	cia zen	
 家坊		
-家私		
+傢俬		
 家系		
 家事		
 家來	cia le	
@@ -26481,7 +26503,7 @@ use_preset_vocabulary: true
 射影		
 射箭		
 射線		
-射雕		
+射鵰		
 射頻		
 射擊		
 射獵		
@@ -26560,9 +26582,9 @@ use_preset_vocabulary: true
 展櫃		
 展讀		
 涴蛆蟲		
-峰岱		
-峰高		
-峰壑		
+峯岱		
+峯高		
+峯壑		
 島內		
 島城		
 島礁		
@@ -26691,9 +26713,9 @@ use_preset_vocabulary: true
 挽惜		
 挽著		
 挽着		
-挽歌		
-挽詩		
-挽聯		
+輓歌		
+輓詩		
+輓聯		
 挾住		
 挾制		
 挾持		
@@ -26956,7 +26978,7 @@ use_preset_vocabulary: true
 校風		
 校務		
 校容		
-校核		
+校覈		
 校訓		
 校勘		
 校區		
@@ -26989,14 +27011,14 @@ use_preset_vocabulary: true
 栲膠		
 核子		
 核仁	gheq gnin	
-核示		
-核字		
-核批		
+覈示		
+覈字		
+覈批		
 核兒	gheq er	
-核定		
-核查		
+覈定		
+覈查		
 核計		
-核准		
+覈准		
 核核頭		
 核能		
 核區	gheq chi	
@@ -27005,7 +27027,7 @@ use_preset_vocabulary: true
 核資		
 核實		
 核對		
-核算		
+覈算		
 核酸		
 核價		
 核審		
@@ -27044,7 +27066,7 @@ use_preset_vocabulary: true
 桃浦		
 桃酥		
 桃凝		
-桅杠		
+桅槓		
 桅桿		
 案內		
 案有		
@@ -27233,7 +27255,7 @@ use_preset_vocabulary: true
 浩繁	ghau vae	
 浪人		
 浪向		
-浪峰		
+浪峯		
 浪痕		
 浪船		
 浪湧		
@@ -27344,7 +27366,7 @@ use_preset_vocabulary: true
 烏綠		
 烏鴉		
 烏龜		
-烏龜抬轎		
+烏龜擡轎		
 烏龜鮝		
 烏雞板		
 烏蘇天		
@@ -27359,7 +27381,7 @@ use_preset_vocabulary: true
 烤得		
 烤麩		
 烤蟹		
-爹娘		
+爹孃		
 爹爹		
 特又		
 特大		
@@ -27395,7 +27417,7 @@ use_preset_vocabulary: true
 珠珠		
 珠淚		
 珠影		
-班干		
+班幹		
 班車		
 班制		
 班委		
@@ -27480,7 +27502,7 @@ use_preset_vocabulary: true
 病夫	bin fu	
 病休	bin shieu	
 病死	bin si	
-病床		
+病牀		
 病兒	bin er	
 病房間	bin vaon kae	
 病況	bin khuaon	
@@ -27511,7 +27533,7 @@ use_preset_vocabulary: true
 真帥		
 真陡		
 真个		
-真样果經		
+真樣果經		
 真能		
 真假		
 真偽		
@@ -27605,14 +27627,14 @@ use_preset_vocabulary: true
 砸錢		
 砸壞		
 祥山		
-秘旨		
-秘事		
-秘使		
-秘室		
-秘約		
-秘商		
-秘聞		
-秘寶		
+祕旨		
+祕事		
+祕使		
+祕室		
+祕約		
+祕商		
+祕聞		
+祕寶		
 租了		
 租下		
 租住		
@@ -27649,7 +27671,7 @@ use_preset_vocabulary: true
 站頭		
 笆子		
 笊籬		
-笋殼		
+筍殼		
 笑了		
 笑她		
 笑你		
@@ -27796,7 +27818,7 @@ use_preset_vocabulary: true
 胳毛		
 胳落竹		
 胴肛		
-胶菜		
+膠菜		
 胸口頭		
 胸片		
 胸有		
@@ -28035,7 +28057,7 @@ use_preset_vocabulary: true
 華嚴		
 華麗		
 虔信	jie sin	
-蚊厨		
+蚊廚		
 蚌殼油		
 蚌殼棉鞋		
 蚌鷸		
@@ -28064,8 +28086,8 @@ use_preset_vocabulary: true
 袁術		
 袍澤		
 袖子管		
-袜肚		
-袜腰		
+襪肚		
+襪腰		
 被人	bi gnin	
 被上		
 被子		
@@ -28196,7 +28218,7 @@ use_preset_vocabulary: true
 財會		
 貢生		
 貢物		
-赶起		
+趕起		
 起九		
 起了		
 起之		
@@ -28206,14 +28228,14 @@ use_preset_vocabulary: true
 起而		
 起行	chi yin	
 起囤		
-起床		
+起牀		
 起更	chi kan	
 起見	chi cie	
 起底		
 起臥		
 起降		
 起勁		
-起哄		
+起鬨		
 起計		
 起陣頭		
 起家	chi cia	
@@ -28315,7 +28337,7 @@ use_preset_vocabulary: true
 這會		
 這煙		
 這當		
-這群		
+這羣		
 這夥		
 這臺		
 這說		
@@ -28476,7 +28498,7 @@ use_preset_vocabulary: true
 酒吧		
 酒坊		
 酒味		
-酒肴		
+酒餚		
 酒盅		
 酒胖氣		
 酒鬼		
@@ -28528,9 +28550,9 @@ use_preset_vocabulary: true
 閃擊		
 閃爍		
 閃耀		
-陪吊		
+陪弔		
 陪住		
-陪床		
+陪牀		
 陪夜		
 陪讀		
 陰入		
@@ -28578,7 +28600,7 @@ use_preset_vocabulary: true
 陰狠		
 陰面		
 陰風		
-陰唇		
+陰脣		
 陰核		
 陰氣		
 陰笑		
@@ -28755,7 +28777,7 @@ use_preset_vocabulary: true
 馬達		
 馬會		
 馬楩草		
-馬群		
+馬羣		
 馬腳		
 馬蓮		
 馬號		
@@ -28800,7 +28822,7 @@ use_preset_vocabulary: true
 高更		
 高見		
 高些		
-高抬		
+高擡		
 高於		
 高昇		
 高枝		
@@ -28859,7 +28881,7 @@ use_preset_vocabulary: true
 乾季	ke ci	
 乾性	ke sin	
 乾杯	ke pi	
-乾炖蛋	ke ten dae	
+乾燉蛋	ke ten dae	
 乾的	ke tiq	
 乾股		
 乾咳	ke kheq	
@@ -28915,7 +28937,7 @@ use_preset_vocabulary: true
 假充	ka tshon	
 假名	ka min	
 假如		
-假托		
+假託		
 假死	ka si	
 假作		
 假扮	ka pae	
@@ -28955,7 +28977,7 @@ use_preset_vocabulary: true
 假想		
 假意		
 假煙		
-假痴假呆		
+假癡假呆		
 假腿		
 假裝		
 假話		
@@ -29117,10 +29139,10 @@ use_preset_vocabulary: true
 兜得轉		
 兜率		
 兜裏		
-凑凑較		
+湊湊較		
 剪下		
 剪去		
-剪床		
+剪牀		
 剪枝		
 剪發		
 剪緝		
@@ -29190,7 +29212,7 @@ use_preset_vocabulary: true
 區碼	chi mo	
 區縣		
 區屬		
-厢屋		
+廂屋		
 參天		
 參加		
 參半		
@@ -29404,7 +29426,7 @@ use_preset_vocabulary: true
 啥歌		
 啥網址		
 啥體		
-啰拖		
+囉拖		
 圈子		
 圈內		
 圈外	chie wa	
@@ -29694,7 +29716,7 @@ use_preset_vocabulary: true
 張生		
 張江		
 張君		
-張床		
+張牀		
 張英		
 張茜		
 張家		
@@ -29768,7 +29790,7 @@ use_preset_vocabulary: true
 強莊		
 強記		
 強國		
-強梁		
+強樑		
 強盛		
 強棒		
 強渡		
@@ -29806,8 +29828,8 @@ use_preset_vocabulary: true
 彩屏		
 彩陶		
 彩帶		
-彩球		
-彩棚		
+綵球		
+綵棚		
 彩裙		
 彩塑		
 彩夢		
@@ -29908,7 +29930,7 @@ use_preset_vocabulary: true
 情夫		
 情份		
 情有		
-情系		
+情繫		
 情味		
 情性		
 情況		
@@ -30221,7 +30243,7 @@ use_preset_vocabulary: true
 斜對過		
 斜壁		
 斬肉		
-斬炖肉		
+斬燉肉		
 斬指		
 斬倉		
 斬將		
@@ -30234,7 +30256,7 @@ use_preset_vocabulary: true
 旋轉碌轉		
 族人		
 族長		
-族群		
+族羣		
 族親		
 晦冥		
 晨光		
@@ -30299,11 +30321,11 @@ use_preset_vocabulary: true
 梳打		
 梳妝臺		
 梳頭家生		
-欲火		
-欲念		
+慾火		
+慾念		
 欲借		
-欲海		
-欲望		
+慾海		
+慾望		
 欲與		
 毫不	ghau peq	
 毫分		
@@ -30314,7 +30336,7 @@ use_preset_vocabulary: true
 涵蓋		
 涸乾		
 涼月		
-涼床		
+涼牀		
 涼拌		
 涼枕		
 涼席		
@@ -30357,7 +30379,7 @@ use_preset_vocabulary: true
 淘茶		
 淘換		
 淘湯		
-淘箩		
+淘籮		
 淘漿糊		
 淚下		
 淚水		
@@ -30680,7 +30702,7 @@ use_preset_vocabulary: true
 產子		
 產生		
 產卵		
-產床		
+產牀		
 產兒		
 產於		
 產油		
@@ -30848,7 +30870,7 @@ use_preset_vocabulary: true
 著衣裳		
 著衣鏡		
 著冷		
-著杠		
+著槓		
 著兒		
 著呢		
 著急		
@@ -30883,7 +30905,7 @@ use_preset_vocabulary: true
 著衣鏡		
 着衣鏡		
 着冷		
-着杠		
+着槓		
 着兒		
 着呢		
 着急		
@@ -31168,7 +31190,7 @@ use_preset_vocabulary: true
 脫糞		
 脫韁		
 脫襻		
-船夫		
+船伕		
 船尾		
 船牢人		
 船泊		
@@ -31190,8 +31212,8 @@ use_preset_vocabulary: true
 菜刀頭		
 菜瓜		
 菜油		
-菜肴		
-菜苔		
+菜餚		
+菜薹		
 菜青蟲		
 菜圃		
 菜乾		
@@ -31323,7 +31345,7 @@ use_preset_vocabulary: true
 象馬		
 象湖		
 象傳		
-象群		
+象羣		
 象模象樣		
 象鼻頭		
 象徵		
@@ -31365,7 +31387,7 @@ use_preset_vocabulary: true
 跂望		
 軟化	gnie ho	
 軟耳朵	gnie gni to	
-軟床		
+軟牀		
 軟材		
 軟食	gnie zeq	
 軟疲搭骨		
@@ -31404,7 +31426,7 @@ use_preset_vocabulary: true
 進學		
 逸品		
 逸當		
-逸群		
+逸羣		
 逸聞	yiq ven	
 逸樂	yiq loq	
 逸趣	yiq tshi	
@@ -31435,7 +31457,7 @@ use_preset_vocabulary: true
 過長		
 過門		
 過勁		
-過个		
+過個		
 過夏		
 過窄		
 過這		
@@ -31521,7 +31543,7 @@ use_preset_vocabulary: true
 閉結		
 閉塞		
 閉會		
-阏氏		
+閼氏		
 陽入		
 陽上		
 陽子江		
@@ -31542,10 +31564,10 @@ use_preset_vocabulary: true
 陽調		
 隂隲		
 隆坡		
-隆准		
+隆準		
 隆盛		
 隆慶		
-隊干		
+隊幹		
 隊日	de zeq	
 隊伍	de u	
 隊長	de tsan	
@@ -31606,14 +31628,14 @@ use_preset_vocabulary: true
 頂下		
 頂少		
 頂出去		
-頂托		
+頂託		
 頂住		
 頂容易		
 頂破		
 頂針箍		
 頂帳		
 頂得		
-頂梁		
+頂樑		
 頂罪		
 頂蓋		
 頂臺		
@@ -31659,7 +31681,7 @@ use_preset_vocabulary: true
 魚竿		
 魚缸		
 魚骨		
-魚唇		
+魚脣		
 魚秧		
 魚粉		
 魚翅		
@@ -31680,7 +31702,7 @@ use_preset_vocabulary: true
 魚圓		
 魚塘		
 魚業		
-魚群		
+魚羣		
 魚腥		
 魚腮		
 魚鉤		
@@ -31721,7 +31743,7 @@ use_preset_vocabulary: true
 鳥啼		
 鳥散		
 鳥窩		
-鳥群		
+鳥羣		
 鳥槍		
 鳥語		
 鳥鳴		
@@ -32033,7 +32055,7 @@ use_preset_vocabulary: true
 喫軋頭		
 喫軋頭	chiq gaq deu	
 喫勁		
-喫咸		
+喫鹹		
 喫客		
 喫相		
 喫神		
@@ -32048,7 +32070,7 @@ use_preset_vocabulary: true
 喫个	chiq eq	
 喫倒		
 喫倒篤		
-喫准		
+喫準		
 喫家生		
 喫素		
 喫透		
@@ -32096,7 +32118,7 @@ use_preset_vocabulary: true
 喫價		
 喫墨水人	chiq meq sy gnin	
 喫潮		
-喫瘪		
+喫癟		
 喫罷		
 喫請		
 喫賠帳		
@@ -32117,7 +32139,7 @@ use_preset_vocabulary: true
 單人		
 單人旁		
 單刀		
-單于		
+單於		
 單口		
 單子		
 單元		
@@ -32143,7 +32165,7 @@ use_preset_vocabulary: true
 單兵		
 單利		
 單抗		
-單杠		
+單槓		
 單步		
 單身		
 單車		
@@ -32232,7 +32254,7 @@ use_preset_vocabulary: true
 圍坐		
 圍攻		
 圍身		
-圍岩		
+圍巖		
 圍的		
 圍城		
 圍屏		
@@ -32386,7 +32408,7 @@ use_preset_vocabulary: true
 尋相罵		
 尋食		
 尋個		
-尋个		
+尋個		
 尋秦記		
 尋隻		
 尋問		
@@ -32456,7 +32478,7 @@ use_preset_vocabulary: true
 幾乎好做到	ci wu hau tsu tau	
 幾句		
 幾可		
-幾台		
+幾臺		
 幾份		
 幾兆		
 幾束		
@@ -32488,9 +32510,9 @@ use_preset_vocabulary: true
 御宅		
 御弟	gni di	
 御姐	gni tsi	
-御准		
+御準		
 御孫	gni sen	
-御寒		
+禦寒		
 御駕	gni ka	
 復來		
 復函		
@@ -32515,7 +32537,7 @@ use_preset_vocabulary: true
 悲咽		
 悲哉		
 悲烈		
-悲戚		
+悲慼		
 悲淒		
 悲痠		
 悲慘		
@@ -32669,7 +32691,7 @@ use_preset_vocabulary: true
 提些	di sin	
 提供		
 提到		
-提制		
+提製		
 提取		
 提押	di aq	
 提拔		
@@ -32790,7 +32812,7 @@ use_preset_vocabulary: true
 揭底		
 揭穿		
 揭竿		
-揭秘		
+揭祕		
 揭起		
 揭密		
 揭陽		
@@ -32909,7 +32931,7 @@ use_preset_vocabulary: true
 敨開		
 敬仰		
 敬祝		
-敬挽		
+敬輓		
 敬煙		
 敬聘		
 斑蚊		
@@ -32948,7 +32970,7 @@ use_preset_vocabulary: true
 景美		
 景氣		
 景泰		
-景致		
+景緻		
 景區		
 景深		
 景象		
@@ -33244,7 +33266,7 @@ use_preset_vocabulary: true
 欺客		
 欺負		
 欺軟		
-欺蒙		
+欺矇		
 欺瞞		
 欽仰		
 欽差		
@@ -33276,8 +33298,8 @@ use_preset_vocabulary: true
 減讓		
 渡江	du kaon	
 渡橋		
-温吞		
-温開水		
+溫吞		
+溫開水		
 測向		
 測計		
 港人		
@@ -33294,43 +33316,43 @@ use_preset_vocabulary: true
 渴望		
 渴癆		
 游了		
-游人		
+遊人		
 游下		
-游士		
-游子		
-游弋		
-游手		
+遊士		
+遊子		
+遊弋		
+遊手		
 游去		
-游民		
+遊民		
 游走		
 游河		
-游牧		
-游玩		
-游俠		
-游客		
-游記		
+遊牧		
+遊玩		
+遊俠		
+遊客		
+遊記		
 游動		
-游移		
-游船		
-游進		
-游過		
-游絲		
-游開		
-游資		
-游魂		
-游說		
-游樂		
-游標		
-游蕩		
-游談		
-游歷		
-游澡		
-游錯		
-游擊		
-游盪		
-游藝		
-游蹤		
-游離		
+遊移		
+遊船		
+遊進		
+遊過		
+遊絲		
+遊開		
+遊資		
+遊魂		
+遊說		
+遊樂		
+遊標		
+遊蕩		
+遊談		
+遊歷		
+遊澡		
+遊錯		
+遊擊		
+遊盪		
+遊藝		
+遊蹤		
+遊離		
 渾淘淘		
 湊了		
 湊合		
@@ -33412,7 +33434,7 @@ use_preset_vocabulary: true
 滑溜		
 滑腸		
 滑裏滑澾		
-滑跶		
+滑躂		
 滑墜		
 滑精		
 滑槽		
@@ -33430,7 +33452,7 @@ use_preset_vocabulary: true
 無上		
 無土		
 無己		
-無干		
+無幹		
 無不		
 無分		
 無及		
@@ -33538,7 +33560,7 @@ use_preset_vocabulary: true
 無情		
 無措		
 無望		
-無梁		
+無樑		
 無涯		
 無猜		
 無理		
@@ -33636,12 +33658,12 @@ use_preset_vocabulary: true
 無權		
 無饜		
 無羈		
-焦干		
+焦乾		
 焦耳		
 焦屑		
 焦脆		
 焦裂		
-焦飯糍		
+焦飯餈		
 焦爛		
 焯水		
 煮食		
@@ -33733,7 +33755,7 @@ use_preset_vocabulary: true
 爲要		
 爲重		
 爲首		
-爲准		
+爲準		
 爲害		
 爲家		
 爲師		
@@ -33815,7 +33837,7 @@ use_preset_vocabulary: true
 猶在		
 猶存		
 猶有		
-琴弦		
+琴絃		
 琴調		
 琴聲	jin sen	
 琵琶骨		
@@ -33895,7 +33917,7 @@ use_preset_vocabulary: true
 登樣		
 發下	faq o	
 發大水	faq du sy	
-發大頭魇	faq du deu ie	
+發大頭魘	faq du deu ie	
 發乎		
 發去	faq chi	
 發生	faq sen	
@@ -33936,7 +33958,7 @@ use_preset_vocabulary: true
 發斑		
 發痠		
 發絲		
-發痴		
+發癡		
 發蒙		
 發際		
 發榜		
@@ -33977,8 +33999,8 @@ use_preset_vocabulary: true
 睏晏覺		
 睏落寣		
 睏夢頭裏		
-睏痴脫		
-睏痴夢懂		
+睏癡脫		
+睏癡夢懂		
 睏話		
 睏寣		
 睏頭夢裏		
@@ -34008,9 +34030,9 @@ use_preset_vocabulary: true
 硬功		
 硬百裏拉		
 硬作主張		
-硬岩		
+硬巖		
 硬拚		
-硬板床		
+硬板牀		
 硬勁		
 硬面		
 硬骨		
@@ -34089,7 +34111,7 @@ use_preset_vocabulary: true
 窗簾		
 窘況		
 窘迫		
-窝鵲		
+窩鵲		
 童女		
 童子鷄		
 童生	don sen	
@@ -34297,19 +34319,19 @@ use_preset_vocabulary: true
 腈綸		
 腋下	yiq o	
 腋臭	yiq tsheu	
-腌篤鮮		
-腌臢		
+醃篤鮮		
+醃臢		
 腎虧		
 腔骨		
 腔道		
 腔勢		
 腔調		
-腕表		
+腕錶		
 腕套		
 腡紋		
 腡記		
 腱鞘		
-舒卷		
+舒捲		
 舒爽		
 舒婷		
 舒齊		
@@ -34485,7 +34507,7 @@ use_preset_vocabulary: true
 葉舌		
 葉芝	yiq tsy	
 葉芽	yiq gha	
-葉岩	yiq ghae	
+葉巖	yiq ghae	
 葉枝	yiq tsy	
 葉狀		
 葉茂	yiq meu	
@@ -34520,7 +34542,7 @@ use_preset_vocabulary: true
 董雷		
 葦席		
 葬花		
-葱管糖		
+蔥管糖		
 葷小菜		
 葷腥		
 虛妄		
@@ -34557,7 +34579,7 @@ use_preset_vocabulary: true
 街景		
 街路		
 裁出		
-裁制		
+裁製		
 裁退		
 裁員		
 裁量		
@@ -34673,7 +34695,7 @@ use_preset_vocabulary: true
 買肉		
 買些		
 買個		
-買个		
+買個		
 買家		
 買單		
 買畫		
@@ -34749,7 +34771,7 @@ use_preset_vocabulary: true
 超強		
 超期		
 超微		
-超群		
+超羣		
 超寬		
 超輕		
 超聲		
@@ -35080,7 +35102,7 @@ use_preset_vocabulary: true
 雁行		
 雁序		
 雁陣		
-雁群		
+雁羣		
 雁鵝		
 雄大		
 雄小娘		
@@ -35098,21 +35120,21 @@ use_preset_vocabulary: true
 雅言	ia gnie	
 雅苑		
 雅思		
-雅致		
+雅緻		
 雅樂		
 雅趣		
 集合		
-集注		
+集註		
 集約		
 集會		
-集群		
+集羣		
 集線		
-雇工		
-雇主		
-雇用		
-雇員		
-雇傭		
-雇農		
+僱工		
+僱主		
+僱用		
+僱員		
+僱傭		
+僱農		
 雋秀		
 雲片糕		
 雲布		
@@ -35174,8 +35196,8 @@ use_preset_vocabulary: true
 須首		
 須將		
 須與		
-喂了		
-喂食		
+餵了		
+餵食		
 喂著		
 喂着		
 喂魚	i ng	
@@ -35193,12 +35215,12 @@ use_preset_vocabulary: true
 飯窠		
 飯飽		
 飯摻粥		
-飯糍		
+飯餈		
 飯糝		
 飯轍		
 飯籃		
 飯糰		
-飯鑊糍		
+飯鑊餈		
 飯蘿頭		
 飯籮		
 飲下		
@@ -35418,7 +35440,7 @@ use_preset_vocabulary: true
 圓肩胛		
 圓骨龍冬		
 圓圈		
-圓梁		
+圓樑		
 圓渦		
 圓眼		
 圓眼豆		
@@ -35555,7 +35577,7 @@ use_preset_vocabulary: true
 幹校		
 幹嗎		
 幹幹		
-幹群		
+幹羣		
 幹麼		
 廉江		
 彙出		
@@ -35677,7 +35699,7 @@ use_preset_vocabulary: true
 愁懷		
 愆期		
 愈加		
-愈合		
+癒合		
 愈見		
 愈近		
 愈細		
@@ -35746,7 +35768,7 @@ use_preset_vocabulary: true
 愛喫		
 愛嗎	e mo	
 愛煞		
-愛群		
+愛羣		
 愛蓮		
 愛詩		
 愛語		
@@ -36000,13 +36022,13 @@ use_preset_vocabulary: true
 暖熱		
 暖熱天		
 暖熱天氣		
-暖橱		
+暖櫥		
 暖鍋		
 暗了	e liau	
 暗下	e o	
 暗叫		
 暗合	e gheq	
-暗扣		
+暗釦		
 暗匣		
 暗囤囤		
 暗屋		
@@ -36016,12 +36038,12 @@ use_preset_vocabulary: true
 暗鬼	e ci	
 暗害	e ghe	
 暗射		
-暗弱		
+闇弱		
 暗問	e ven	
 暗黃		
 暗堡	e pau	
 暗場		
-暗然		
+闇然		
 暗紫		
 暗裏		
 暗裏向		
@@ -36232,7 +36254,7 @@ use_preset_vocabulary: true
 溜號		
 溜躂		
 溝仔		
-溝床		
+溝牀		
 溝底		
 溝痕		
 溝裏		
@@ -36246,7 +36268,7 @@ use_preset_vocabulary: true
 溪邊		
 溫乎		
 溫吞水		
-溫床		
+溫牀		
 溫服		
 溫炕		
 溫差		
@@ -36266,7 +36288,7 @@ use_preset_vocabulary: true
 溶膠		
 溺水		
 溺死		
-溺床		
+溺牀		
 溺信		
 溺愛		
 溺嬰		
@@ -36283,7 +36305,7 @@ use_preset_vocabulary: true
 滇池		
 滇緬		
 滌綸		
-滚水		
+滾水		
 漷湯漷水		
 漷嘴		
 漷嘴巴		
@@ -36294,40 +36316,40 @@ use_preset_vocabulary: true
 煎迫		
 煎魚		
 煎藥		
-煙斗		
-煙民		
-煙灰		
+菸斗		
+菸民		
+菸灰		
 煙冷清清		
-煙杆		
+煙桿		
 煙村		
-煙味		
+菸味		
 煙波		
 煙青		
 煙南		
 煙柳		
-煙毒		
-煙缸		
-煙草		
-煙鬼		
-煙紙		
-煙紙店		
-煙臭		
-煙酒		
-煙捲		
-煙袋		
+菸毒		
+菸缸		
+菸草		
+菸鬼		
+菸紙		
+菸紙店		
+菸臭		
+菸酒		
+菸捲		
+菸袋		
 煙棒		
 煙窗		
-煙絲		
-煙葉		
-煙蒂		
-煙農		
-煙熏		
+菸絲		
+菸葉		
+菸蒂		
+菸農		
+煙薰		
 煙墩		
-煙嘴		
+菸嘴		
 煙錢		
-煙頭		
+菸頭		
 煙霞		
-煙癖		
+菸癖		
 煞口		
 煞住		
 煞克		
@@ -36398,7 +36420,7 @@ use_preset_vocabulary: true
 當了		
 當下		
 當中人		
-當中横裏		
+當中橫裏		
 當中橫裏		
 當予		
 當月	tan yiq	
@@ -36431,7 +36453,7 @@ use_preset_vocabulary: true
 痰喘		
 痲木		
 痲風		
-痴頭怪腦		
+癡頭怪腦		
 盞子		
 盟約		
 盟員		
@@ -36447,7 +36469,7 @@ use_preset_vocabulary: true
 睡下		
 睡去		
 睡吧		
-睡床		
+睡牀		
 睡車		
 睡臥		
 睡室		
@@ -36502,7 +36524,7 @@ use_preset_vocabulary: true
 碗底		
 碗壺		
 碗裏		
-碗橱		
+碗櫥		
 碗頭碗腳		
 碗櫃		
 碘片		
@@ -36633,44 +36655,44 @@ use_preset_vocabulary: true
 置前		
 置留		
 署長	zy tsan	
-群小		
-群山		
-群丑		
-群主		
-群生	jin sen	
-群交	jin ciau	
-群臣		
-群芳		
-群居		
-群氓		
-群育		
-群英		
-群星		
-群架		
-群柏		
-群射		
-群峰		
-群島		
-群益		
-群起		
-群婚		
-群情		
-群眾		
-群組		
-群魚	jin ng	
-群發		
-群落		
-群雄		
-群集		
-群像		
-群團		
-群聚		
-群毆		
-群論		
-群賢		
-群醜		
-群雕		
-群體		
+羣小		
+羣山		
+羣醜		
+羣主		
+羣生	jin sen	
+羣交	jin ciau	
+羣臣		
+羣芳		
+羣居		
+羣氓		
+羣育		
+羣英		
+羣星		
+羣架		
+羣柏		
+羣射		
+羣峯		
+羣島		
+羣益		
+羣起		
+羣婚		
+羣情		
+羣眾		
+羣組		
+羣魚	jin ng	
+羣發		
+羣落		
+羣雄		
+羣集		
+羣像		
+羣團		
+羣聚		
+羣毆		
+羣論		
+羣賢		
+羣醜		
+羣雕		
+羣體		
 羨妒		
 義人	gni gnin	
 義女	gni gni	
@@ -36704,7 +36726,7 @@ use_preset_vocabulary: true
 腥味		
 腥紅		
 腥臭		
-腥膻		
+腥羶		
 腥鹹		
 腦勺		
 腦子活絡		
@@ -36724,7 +36746,7 @@ use_preset_vocabulary: true
 腰子		
 腰子病		
 腰子餅		
-腰系		
+腰繫		
 腰花		
 腰身		
 腰背		
@@ -36737,7 +36759,7 @@ use_preset_vocabulary: true
 腰裏		
 腰間	iau ciae	
 腰腿		
-腰酸		
+腰痠		
 腰線		
 腳下		
 腳丫		
@@ -36821,16 +36843,16 @@ use_preset_vocabulary: true
 與誰		
 與總		
 蒙人		
-蒙住		
-蒙事		
+矇住		
+矇事		
 蒙板		
-蒙昧		
-蒙混		
-蒙眼		
+矇昧		
+矇混		
+矇眼		
 蒙頂		
 蒙罩		
-蒙蒙亮		
-蒙蔽		
+矇矇亮		
+矇蔽		
 蒙矓		
 蒜黃		
 蒜薹		
@@ -36906,7 +36928,7 @@ use_preset_vocabulary: true
 蜂鳥	fon gniau	
 蜂脾		
 蜂廈		
-蜂群		
+蜂羣		
 蜂燈		
 蜂糖		
 蜂蠆		
@@ -36997,7 +37019,7 @@ use_preset_vocabulary: true
 解開	ga khe	
 解開	cia khe	
 解集	cia ziq	
-解雇	cia ku	
+解僱	cia ku	
 解像	cia zian	
 解夢	cia mon	
 解禁	cia cin	
@@ -37115,7 +37137,7 @@ use_preset_vocabulary: true
 誇耀		
 誇讚		
 誕生		
-誠征		
+誠徵		
 誠信		
 誠摯		
 誠願		
@@ -37229,7 +37251,7 @@ use_preset_vocabulary: true
 較具		
 較和		
 較易		
-較松		
+較鬆		
 較長		
 較前		
 較勁		
@@ -37257,9 +37279,9 @@ use_preset_vocabulary: true
 載波		
 載過		
 載腳		
-辟支		
+闢支		
 辟邪		
-辟啪		
+闢啪		
 農人	non gnin	
 農大		
 農化		
@@ -37511,10 +37533,10 @@ use_preset_vocabulary: true
 鼓浪		
 鼓惑		
 鼓棰		
-鼓辟		
+鼓闢		
 鼓樂		
 鼓蕩		
-鼓噪		
+鼓譟		
 鼓聲		
 鼠害		
 鼠婦		
@@ -37603,7 +37625,7 @@ use_preset_vocabulary: true
 圖譜	du phu	
 圖鑒	du cie	
 圖讖		
-團几		
+團幾		
 團化		
 團友		
 團建		
@@ -37634,7 +37656,7 @@ use_preset_vocabulary: true
 墊被		
 墊圈		
 墊塊		
-墙圈		
+牆圈		
 墜下		
 墜失		
 墜馬		
@@ -37669,7 +37691,7 @@ use_preset_vocabulary: true
 奧林		
 奧迪		
 奧祕		
-奧秘		
+奧祕		
 奧陶		
 奧國		
 奧援		
@@ -37694,7 +37716,7 @@ use_preset_vocabulary: true
 嫩柳		
 嫩美		
 嫩草		
-嫩唇		
+嫩脣		
 嫩莖		
 嫩喫		
 嫩萼		
@@ -37749,7 +37771,7 @@ use_preset_vocabulary: true
 寧神		
 寧夏		
 寬大		
-寬余		
+寬餘		
 寬屏		
 寬約		
 寬狹		
@@ -37843,7 +37865,7 @@ use_preset_vocabulary: true
 廣場		
 廣爲		
 廣源		
-廣辟		
+廣闢		
 弊害		
 弊端		
 彰化		
@@ -37883,7 +37905,7 @@ use_preset_vocabulary: true
 慢了		
 慢牛		
 慢車		
-慢咽		
+慢嚥		
 慢條		
 慢慢叫		
 慣了		
@@ -37961,7 +37983,7 @@ use_preset_vocabulary: true
 敲木魚		
 敲出		
 敲打		
-敲竹杠		
+敲竹槓		
 敲竹槓		
 敲門		
 敲扁豆		
@@ -38032,7 +38054,7 @@ use_preset_vocabulary: true
 滾入		
 滾大勢壯	kuen du sy tsan	
 滾壯		
-滾杠		
+滾槓		
 滾屏		
 滾條		
 滾軸		
@@ -38089,7 +38111,7 @@ use_preset_vocabulary: true
 演化		
 演个		
 演員		
-演秘		
+演祕		
 演著		
 演着		
 演說		
@@ -38143,11 +38165,11 @@ use_preset_vocabulary: true
 漾潭		
 潢池		
 潢潢		
-熏豆		
-熏染		
-熏風		
-熏陶		
-熏雞		
+薰豆		
+薰染		
+薰風		
+薰陶		
+薰雞		
 熒光	yin kuaon	
 熒屏	yin bin	
 熒然		
@@ -38174,10 +38196,10 @@ use_preset_vocabulary: true
 瑤鄉		
 瑪莎		
 瑪瑙		
-疑凶		
+疑兇		
 疑心疑惑		
 疑是		
-疑准足		
+疑準足		
 疑問	gni ven	
 疑欲		
 疑處		
@@ -38244,7 +38266,7 @@ use_preset_vocabulary: true
 監護		
 監聽		
 瞅見		
-瞅准		
+瞅準		
 瞅著		
 瞅着		
 瞇花眼笑		
@@ -38285,7 +38307,7 @@ use_preset_vocabulary: true
 種秧		
 種馬		
 種煙		
-種群		
+種羣		
 稱之		
 稱心		
 稱手		
@@ -38304,7 +38326,7 @@ use_preset_vocabulary: true
 稱誦		
 稱說		
 端午節	te ng tsiq	
-端午粽	te ng tson	
+端午糉	te ng tson	
 端水		
 端平		
 端直		
@@ -38368,7 +38390,7 @@ use_preset_vocabulary: true
 算呀		
 算定		
 算度		
-算准		
+算準		
 算啥		
 算清		
 算術		
@@ -38384,7 +38406,7 @@ use_preset_vocabulary: true
 管你		
 管見		
 管身娘		
-管弦		
+管絃		
 管的		
 管个		
 管家		
@@ -38403,7 +38425,7 @@ use_preset_vocabulary: true
 箸籠		
 粹白		
 粼光		
-粽箬		
+糉箬		
 精切		
 精出		
 精打光		
@@ -38421,7 +38443,7 @@ use_preset_vocabulary: true
 精舍		
 精括		
 精研		
-精准		
+精準		
 精耕		
 精華		
 精乾		
@@ -38666,7 +38688,7 @@ use_preset_vocabulary: true
 蔚縣		
 蔚藍		
 蔣家		
-蔥郁		
+蔥鬱		
 蔥爆		
 蔫了		
 蔽日		
@@ -38681,7 +38703,7 @@ use_preset_vocabulary: true
 蜜甜		
 蜜腺		
 蜜糖糕		
-蜡燭包		
+蠟燭包		
 蜷伏		
 蜷起		
 蜻蜓		
@@ -38730,7 +38752,7 @@ use_preset_vocabulary: true
 認青條		
 認青蠶		
 認狠		
-認准		
+認準		
 認破		
 認帳		
 認爲		
@@ -38755,7 +38777,7 @@ use_preset_vocabulary: true
 語塞		
 語感		
 語業		
-語群		
+語羣		
 語調		
 語聲		
 誣		
@@ -38897,7 +38919,7 @@ use_preset_vocabulary: true
 趕胎		
 趕要趕緊		
 趕場		
-趕骚雄鷄		
+趕騷雄鷄		
 趙志剛		
 輓具		
 輔以		
@@ -38925,7 +38947,7 @@ use_preset_vocabulary: true
 輕相骨頭		
 輕骨頭		
 輕健		
-輕唇		
+輕脣		
 輕挽		
 輕財		
 輕悠		
@@ -39041,7 +39063,7 @@ use_preset_vocabulary: true
 銅質		
 銅爐		
 銅鏽		
-銑床		
+銑牀		
 銑軋		
 銘傳		
 銚子		
@@ -39078,7 +39100,7 @@ use_preset_vocabulary: true
 隨著		
 隨着		
 隨感		
-隨群		
+隨羣		
 雌伏		
 雌伏雄		
 雌老虎		
@@ -39487,8 +39509,8 @@ use_preset_vocabulary: true
 撐煞		
 撐矮棒		
 撐腳		
-撑船		
-撑順水篙		
+撐船		
+撐順水篙		
 撒向		
 撒污		
 撒尿		
@@ -39545,7 +39567,7 @@ use_preset_vocabulary: true
 撩逗		
 撩開		
 撩撥		
-撩蕰草		
+撩薀草		
 撫恤		
 撫背		
 撫理		
@@ -39553,7 +39575,7 @@ use_preset_vocabulary: true
 撫照		
 撫節		
 撫牆摸壁		
-撬杠		
+撬槓		
 撬門		
 撬勁		
 撬棍		
@@ -39579,7 +39601,7 @@ use_preset_vocabulary: true
 敵人	dieq gnin	
 敵害		
 敵偽		
-敵群		
+敵羣		
 數一		
 數了		
 數人		
@@ -39691,7 +39713,7 @@ use_preset_vocabulary: true
 樂感		
 樂業		
 樂歌		
-樂群		
+樂羣		
 樂聖		
 樂團		
 樂舞		
@@ -39714,7 +39736,7 @@ use_preset_vocabulary: true
 樓院		
 樓浪向		
 樓裏		
-樓群		
+樓羣		
 樓蓋		
 樓榭		
 樓體		
@@ -39745,7 +39767,7 @@ use_preset_vocabulary: true
 歐弟		
 歐姆		
 歐拉		
-漿粽店		
+漿糉店		
 潑去		
 潑綽		
 潛伏		
@@ -39756,7 +39778,7 @@ use_preset_vocabulary: true
 潤之		
 潤迅		
 潤物		
-潤唇		
+潤脣		
 潤綠		
 潤澤		
 潤濕		
@@ -39776,7 +39798,7 @@ use_preset_vocabulary: true
 潮煙管		
 潮解		
 潮熱		
-𠀊頭小伙子		
+𠀊頭小夥子		
 𠀊頭肉		
 潮濕		
 潮聲		
@@ -39965,10 +39987,10 @@ use_preset_vocabulary: true
 糅合		
 糅和		
 糅雜		
-糊口		
+餬口		
 糊面		
 糊料		
-糍米飯		
+餈米飯		
 線人		
 線列		
 線芯		
@@ -40123,7 +40145,7 @@ use_preset_vocabulary: true
 衛校		
 衛從		
 衛教		
-衝床		
+衝牀		
 衝勁		
 衝垮		
 衝破		
@@ -40266,7 +40288,7 @@ use_preset_vocabulary: true
 請口		
 請予		
 請太太		
-請托		
+請託		
 請於		
 請昇		
 請降		
@@ -40569,7 +40591,7 @@ use_preset_vocabulary: true
 鋤奸	zy ciae	
 鋤暴		
 鋪下		
-鋪床		
+鋪牀		
 鋪砌		
 鋪就		
 鋪蓋		
@@ -40594,12 +40616,12 @@ use_preset_vocabulary: true
 震波		
 震感		
 震顫		
-霉夫		
-霉味		
-霉鬼星		
-霉氣		
-霉乾菜		
-霉塔臭		
+黴夫		
+黴味		
+黴鬼星		
+黴氣		
+黴乾菜		
+黴塔臭		
 靚女		
 靚仔		
 靚妝		
@@ -40700,7 +40722,7 @@ use_preset_vocabulary: true
 駝包蜒蚰		
 駝背	du pi	
 駝鳥	du gniau	
-駝群		
+駝羣		
 髮粉		
 鬧兒	nau ng	
 鬧哄		
@@ -40748,7 +40770,7 @@ use_preset_vocabulary: true
 儘早		
 儘是		
 儘速		
-儘够		
+儘夠		
 儘量		
 凝合		
 凝住		
@@ -40764,9 +40786,9 @@ use_preset_vocabulary: true
 嘯聲		
 嘴巴		
 嘴皮		
-嘴唇		
-嘴唇皮		
-嘴唇膏		
+嘴脣		
+嘴脣皮		
+嘴脣膏		
 嘴乾		
 嘴脣皮		
 嘴裏		
@@ -41015,7 +41037,7 @@ use_preset_vocabulary: true
 機中		
 機內		
 機尾	ci vi	
-機床		
+機牀		
 機車		
 機長	ci tsan	
 機降		
@@ -41029,7 +41051,7 @@ use_preset_vocabulary: true
 機窗		
 機會	ci wi	
 機罩		
-機群		
+機羣		
 機臺		
 機鋒		
 機織		
@@ -41166,7 +41188,7 @@ use_preset_vocabulary: true
 燒了		
 燒人		
 燒山		
-燒干		
+燒乾		
 燒化		
 燒死		
 燒夾生飯		
@@ -41196,7 +41218,7 @@ use_preset_vocabulary: true
 燕食		
 燕雀		
 燕魚		
-燕群		
+燕羣		
 燙人		
 燙婆子		
 燙著		
@@ -41263,7 +41285,7 @@ use_preset_vocabulary: true
 磨光		
 磨合		
 磨坊		
-磨床		
+磨牀		
 磨折		
 磨要		
 磨破		
@@ -41504,7 +41526,7 @@ use_preset_vocabulary: true
 賴以		
 賴皮		
 賴伏雞		
-賴床		
+賴牀		
 賴倒		
 賴倒做		
 賴柴		
@@ -41725,7 +41747,7 @@ use_preset_vocabulary: true
 雕砌		
 雕象		
 雕塑		
-霍托		
+霍託		
 霍險		
 霍顯		
 靜了		
@@ -41778,7 +41800,7 @@ use_preset_vocabulary: true
 頭雁	deu ie	
 頭腦子		
 頭蓋		
-頭裏虱		
+頭裏蝨		
 頭裏痛		
 頭路		
 頭銜		
@@ -41795,7 +41817,7 @@ use_preset_vocabulary: true
 頰骨		
 頸子		
 頸部		
-頸梁		
+頸樑		
 頸脖		
 頸椎		
 頸項		
@@ -41846,11 +41868,11 @@ use_preset_vocabulary: true
 龍江		
 龍吟		
 龍吸水		
-龍床		
+龍牀		
 龍肝		
 龍身		
 龍卷風		
-龍岩		
+龍巖		
 龍庭		
 龍洋		
 龍涎		
@@ -42092,7 +42114,7 @@ use_preset_vocabulary: true
 擱置		
 擱樓		
 擴大		
-擴征		
+擴徵		
 擴股		
 擴寬		
 擴闊		
@@ -42375,8 +42397,8 @@ use_preset_vocabulary: true
 聲響		
 聳露		
 膺任		
-膻味		
-膻氣		
+羶味		
+羶氣		
 膽大		
 膽色		
 膽壯		
@@ -42422,7 +42444,7 @@ use_preset_vocabulary: true
 臨死		
 臨江		
 臨行		
-臨床		
+臨牀		
 臨身		
 臨朐		
 臨夏		
@@ -42512,7 +42534,7 @@ use_preset_vocabulary: true
 螳螂		
 螵蛸		
 螺攻		
-螺杆		
+螺桿		
 螺殼		
 螻蛄		
 蟄伏		
@@ -42800,7 +42822,7 @@ use_preset_vocabulary: true
 龜足		
 龜兔		
 龜板		
-龜兹	chieu zy	
+龜茲	chieu zy	
 龜背		
 龜殼		
 龜頭		
@@ -42815,7 +42837,7 @@ use_preset_vocabulary: true
 戳透		
 戳節頭		
 戳槍戳箭		
-戳霉頭		
+戳黴頭		
 戳壁腳		
 戳鏟		
 擺了		
@@ -43050,7 +43072,7 @@ use_preset_vocabulary: true
 翹辮子		
 翻了		
 翻工		
-翻斗		
+翻鬥		
 翻毛腔		
 翻用		
 翻老底		
@@ -43156,7 +43178,7 @@ use_preset_vocabulary: true
 蹔孛相		
 蹔路		
 蹗起來		
-蹦床		
+蹦牀		
 蹦兒		
 蹦跳		
 蹩進蹩出		
@@ -43197,7 +43219,7 @@ use_preset_vocabulary: true
 邊牢		
 邊垂		
 邊岸		
-邊个		
+邊個		
 邊浪		
 邊浪向		
 邊區		
@@ -43256,7 +43278,7 @@ use_preset_vocabulary: true
 鏈條		
 鏈烴		
 鏵犁		
-镬盖		
+鑊蓋		
 闔家	gheq ka	
 闕失	chiq seq	
 闕如		
@@ -43280,7 +43302,7 @@ use_preset_vocabulary: true
 雙百		
 雙耳		
 雙行		
-雙杠		
+雙槓		
 雙季稻		
 雙底		
 雙拐		
@@ -43290,7 +43312,7 @@ use_preset_vocabulary: true
 雙眉		
 雙缸		
 雙虹		
-雙唇		
+雙脣		
 雙株		
 雙基		
 雙創		
@@ -43368,7 +43390,7 @@ use_preset_vocabulary: true
 離過		
 離場		
 離間		
-離群		
+離羣		
 離解		
 離障		
 離層		
@@ -43427,7 +43449,7 @@ use_preset_vocabulary: true
 鵝毛雪		
 鵝卵		
 鵝蛋面孔		
-鵝群		
+鵝羣		
 鵝脰頸		
 鵠立		
 齕牢		
@@ -43486,8 +43508,8 @@ use_preset_vocabulary: true
 寵壞		
 懲戒		
 懶人		
-懶扑		
-懶床		
+懶撲		
+懶牀		
 懶阿嬤		
 懶坯		
 懶洋洋		
@@ -43569,7 +43591,7 @@ use_preset_vocabulary: true
 獸孩		
 獸欲		
 獸窟		
-獸群		
+獸羣		
 獺祭		
 疆土		
 疆界		
@@ -43589,7 +43611,7 @@ use_preset_vocabulary: true
 礙路		
 礦石		
 礦冶		
-礦床		
+礦牀		
 礦車		
 礦物		
 礦長		
@@ -43601,7 +43623,7 @@ use_preset_vocabulary: true
 穩打		
 穩住		
 穩坐		
-穩准		
+穩準		
 穩拿		
 簷下	ye o	
 簽了		
@@ -43644,7 +43666,7 @@ use_preset_vocabulary: true
 繳驗		
 羅大		
 羅巾		
-羅干		
+羅幹		
 羅伊		
 羅村		
 羅店		
@@ -43707,7 +43729,7 @@ use_preset_vocabulary: true
 蟹膏		
 蟻巢		
 蟻塚		
-蟻群		
+蟻羣		
 證人		
 證券		
 證果		
@@ -43756,7 +43778,7 @@ use_preset_vocabulary: true
 警隊		
 警嫂		
 警棍		
-警辟		
+警闢		
 警槍		
 警銜		
 警覺		
@@ -43787,7 +43809,7 @@ use_preset_vocabulary: true
 轎車		
 辭去		
 辭行	zy yin	
-鏜床		
+鏜牀		
 鏟刀		
 鏟平		
 鏟車		
@@ -43842,7 +43864,7 @@ use_preset_vocabulary: true
 難般		
 難被		
 難啃		
-難得个是		
+難得個是		
 難猜		
 難脫		
 難過煞		
@@ -43988,13 +44010,13 @@ use_preset_vocabulary: true
 瀺唾		
 瀺唾水		
 瀾滄		
-灌制		
+灌製		
 灌南		
 灌區		
 灌蛋		
 灌鼓		
 爐瓦		
-爐床		
+爐牀		
 爐條		
 爐臺師傅		
 爐擋		
@@ -44045,7 +44067,7 @@ use_preset_vocabulary: true
 觸揢鬼		
 觸景		
 觸感		
-觸霉頭		
+觸黴頭		
 觸鍵		
 觸覺		
 觸鬚		
@@ -44143,7 +44165,7 @@ use_preset_vocabulary: true
 黨員		
 黨校		
 黨費		
-黨群		
+黨羣		
 齙牙齒		
 劗肉		
 囂張		
@@ -44179,7 +44201,7 @@ use_preset_vocabulary: true
 攝錄		
 櫻花		
 櫻草		
-櫻唇		
+櫻脣		
 櫻桃	an dau	
 櫻桃嘴	an dau tsy	
 權且		
@@ -44304,10 +44326,10 @@ use_preset_vocabulary: true
 鐵甲		
 鐵石		
 鐵匠		
-鐵床		
+鐵牀		
 鐵抄		
 鐵杆		
-鐵杠		
+鐵槓		
 鐵枴		
 鐵柱		
 鐵柵		
@@ -44332,7 +44354,7 @@ use_preset_vocabulary: true
 鑊焦		
 鑊煤		
 鑊蓋		
-鑊糍		
+鑊餈		
 鑊鏟		
 露了		
 露芽		
@@ -44612,7 +44634,7 @@ use_preset_vocabulary: true
 戀人		
 戀念		
 戀家		
-戀群		
+戀羣		
 攪七攪八		
 攪勻		
 攪合		
@@ -44721,7 +44743,7 @@ use_preset_vocabulary: true
 鱗甲		
 鱗波		
 鷲山		
-鷲峰		
+鷲峯		
 鹼化		
 壩田		
 壩地		
@@ -44802,7 +44824,7 @@ use_preset_vocabulary: true
 贛劇		
 靈伐		
 靈光		
-靈床		
+靈牀		
 靈車		
 靈明		
 靈修		
@@ -44830,7 +44852,7 @@ use_preset_vocabulary: true
 鹽區		
 鹽鹵		
 鹽場		
-鹽碱地		
+鹽鹼地		
 齆鼻頭		
 齷齪八臘		
 廳內		
@@ -44886,7 +44908,7 @@ use_preset_vocabulary: true
 鑼聲	lu sen	
 鑽石		
 鑽尖		
-鑽床		
+鑽牀		
 鑽戒		
 鑽杆		
 鑽勁		
@@ -44948,7 +44970,7 @@ use_preset_vocabulary: true
 魚肚腸		
 狗尾巴		
 泡麵		
-了解	liau cia	
+瞭解	liau cia	
 差介點	tsho ka tie	
 差介點	tsho kaq tie	
 熱水壺		
@@ -45006,7 +45028,7 @@ qq登弗上	qq ten veq zaon
 哆啦A夢	tu la a mon	
 伶俐		
 放弗落	faon veq loq	
-摆弗落	pa veq loq	
+擺弗落	pa veq loq	
 啥个	sa eq	
 啥个	sa gheq	
 䥛子	cieq tsy	
@@ -45041,7 +45063,7 @@ qq登弗上	qq ten veq zaon
 司馬高橋	sy mo kau jiau	
 眼睛一䀫		
 弗相信	feq sian sin	
-弗对	feq ti	
+弗對	feq ti	
 弗行	feq ghan	
 蛓毛		
 蛓毛蟲		
