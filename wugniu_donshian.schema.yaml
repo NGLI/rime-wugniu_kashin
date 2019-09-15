@@ -77,12 +77,12 @@ speller:
     # 打党不分
     - derive/aon/an/
     # 結菊不分
-    - derive/cioh/cih/
+    - derive/cio(q|h)/ci$1/
     # 飛灰不分
     - derive/^hu/f/
     - xform/^f$/fu/
     # 國角不分
-    - derive/^kueq/koq/
+    - derive/^kue(q|h)/ko$1/
     # 撮口音
     - derive/e$/oe/
 
