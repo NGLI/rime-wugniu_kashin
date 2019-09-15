@@ -12,7 +12,7 @@
 - 嘉興
 - 嘉善
 
-拼音方案爲[吳語學堂](https://www.wugniu.com/)式拼音。
+拼音方案爲[吳語學堂](https://www.wugniu.com/)式拼音，同時兼容[吳語協會](http://wu-chinese.com/romanization/)式拼音。
 
 ## 幫助文檔
 
