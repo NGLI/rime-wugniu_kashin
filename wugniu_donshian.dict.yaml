@@ -10,7 +10,7 @@
 
 ---
 name: wugniu_donshian
-version: "2019.09.15"
+version: "2019.11.26"
 sort: by_weight
 use_preset_vocabulary: true
 ...
