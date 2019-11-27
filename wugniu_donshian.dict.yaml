@@ -10,7 +10,7 @@
 
 ---
 name: wugniu_donshian
-version: "2019.11.26"
+version: "2019.11.27"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7972,7 +7972,7 @@ use_preset_vocabulary: true
 一路貨	
 一跳	
 一頓	
-一飽耳福	iq pau r̀ foq
+一飽耳福	iq pau er foq
 一榼	
 一管	
 一緊	
@@ -8103,7 +8103,7 @@ use_preset_vocabulary: true
 了它	
 了伐	liau va
 了如	
-了而	liau r
+了而	liau er
 了吧	
 了呀	
 了事	
@@ -8134,7 +8134,7 @@ use_preset_vocabulary: true
 二二	gni gni
 二人	
 二八	gni poq
-二十	r̂ seq
+二十	er seq
 二十	gni seq
 二三	gni sae
 二上	
@@ -8201,7 +8201,7 @@ use_preset_vocabulary: true
 二版	gni pae
 二者	gni tse
 二股	gni ku
-二郎腿	r̂ laon thi
+二郎腿	er laon thi
 二門	gni men
 二侯	gni gheu
 二信	gni sin
@@ -8340,7 +8340,7 @@ use_preset_vocabulary: true
 人年	
 人有	
 人次	
-人耳	gnin r̀
+人耳	gnin er
 人自	
 人防	
 人均	gnin cin
@@ -8349,7 +8349,7 @@ use_preset_vocabulary: true
 人事	
 人來	
 人來風	gnin le fon
-人兒	zen r
+人兒	zen er
 人呢	gnin ne
 人味	gnin vi
 人命	gnin min
@@ -8438,7 +8438,7 @@ use_preset_vocabulary: true
 入伍	
 入伏	
 入地	
-入耳	zeq r̀
+入耳	zeq er
 入邪	
 入住	
 入你	
@@ -9124,7 +9124,7 @@ use_preset_vocabulary: true
 久病成良醫	
 久閉	
 久聞	
-乞兒	chiq r
+乞兒	chiq er
 乞降	
 乞食	
 也大	
@@ -11827,7 +11827,7 @@ use_preset_vocabulary: true
 引見	in cie
 引言	in gnie
 引例	
-引兒	in r
+引兒	in er
 引拉	in la
 引物	in veq
 引者	
@@ -12157,7 +12157,7 @@ use_preset_vocabulary: true
 月芽	yiq gha
 月事	
 月來	yiq le
-月兒	yiq r
+月兒	yiq er
 月到月	
 月夜	yiq ia
 月季	yiq ci
@@ -13363,7 +13363,7 @@ use_preset_vocabulary: true
 史學	
 右下	ieu o
 右半爿	
-右耳	ieu r̀
+右耳	ieu er
 右肋	
 右行	ieu yin
 右角	
@@ -15314,7 +15314,7 @@ use_preset_vocabulary: true
 合好	
 合式	
 合成	
-合而	gheq r
+合而	gheq er
 合住	
 合作	
 合身	
@@ -15986,7 +15986,7 @@ use_preset_vocabulary: true
 字少	
 字句	
 字串	
-字兒	zy r
+字兒	zy er
 字卷	
 字長	zy zan
 字是	
@@ -16933,121 +16933,121 @@ use_preset_vocabulary: true
 考場	
 考期	
 考綱	
-而又	r ieu
-而下	r o
-而不	r peq
-而比	r pi
-而且	r tshi
-而去	r chi
-而叫	r ciau
-而未	r vi
-而生	r san
-而光	r kuaon
+而又	er ieu
+而下	er o
+而不	er peq
+而比	er pi
+而且	er tshi
+而去	er chi
+而叫	er ciau
+而未	er vi
+而生	er san
+而光	er kuaon
 而再	
 而此	
-而死	r si
-而行	r yin
+而死	er si
+而行	er yin
 而別	
-而更	r ken
-而言	r gnie
+而更	er ken
+而言	er gnie
 而居	
-而於	r yi
-而況	r khuaon
+而於	er yi
+而況	er khuaon
 而知	
 而臥	
 而活	
 而逃	
-而將	r tsian
+而將	er tsian
 而能	
-而望	r vaon
+而望	er vaon
 而終	
 而設	
-而提	r di
+而提	er di
 而散	
 而最	
-而無	r vu
+而無	er vu
 而爲	
 而落	
-而會	r wi
+而會	er wi
 而精	
-而戴	r ta
+而戴	er ta
 而顯	
-耳刀	r̀ tau
-耳力	r̀ liq
-耳子	r̀ tsy
-耳孔	r̀ khon
-耳毛	r̀ mau
-耳仔	r̀ tsy
-耳生	r̀ sen
-耳目	r̀ moq
-耳石	r̀ zaq
-耳穴	r̀ yiq
-耳光	r̀ kuaon
+耳刀	er tau
+耳力	er liq
+耳子	er tsy
+耳孔	er khon
+耳毛	er mau
+耳仔	er tsy
+耳生	er sen
+耳目	er moq
+耳石	er zaq
+耳穴	er yiq
+耳光	er kuaon
 耳光	
-耳尖	r̀ tsie
+耳尖	er tsie
 耳朵	gni to
 耳朵屙	gni to u
 耳朵洞	gni to don
 耳朵圈	gni to chie
 耳朵管	gni to kue
 耳朵環	gni to guae
-耳沈	r̀ sen
-耳垂	r̀ zi
-耳性	r̀ sin
-耳房	r̀ vaon
-耳炎	r̀ ye
-耳門	r̀ men
-耳垢	r̀ keu
-耳屎	r̀ sy
-耳後	r̀ eu
-耳挖	r̀ uaq
-耳洞	r̀ don
-耳科	r̀ khu
-耳背	r̀ pi
-耳風	r̀ fon
-耳食	r̀ zeq
-耳套	r̀ thau
-耳旁	r̀ baon
-耳栓	r̀ se
-耳根	r̀ ken
-耳畔	r̀ be
-耳疾	r̀ ziq
-耳部	r̀ bu
-耳針	r̀ tsen
+耳沈	er sen
+耳垂	er zi
+耳性	er sin
+耳房	er vaon
+耳炎	er ye
+耳門	er men
+耳垢	er keu
+耳屎	er sy
+耳後	er eu
+耳挖	er uaq
+耳洞	er don
+耳科	er khu
+耳背	er pi
+耳風	er fon
+耳食	er zeq
+耳套	er thau
+耳旁	er baon
+耳栓	er se
+耳根	er ken
+耳畔	er be
+耳疾	er ziq
+耳部	er bu
+耳針	er tsen
 耳馬	
-耳軟	r̀ gnie
-耳麥	r̀ maq
-耳幅	r̀ foq
-耳殼	r̀ khoq
-耳痛	r̀ thon
-耳順	r̀ zen
-耳塞	r̀ seq
-耳廓	r̀ khoq
-耳罩	r̀ tsau
-耳裏	r̀ li
-耳際	r̀ tsi
-耳飾	r̀ seq
-耳鼓	r̀ ku
-耳聞	r̀ ven
-耳膜	r̀ moq
+耳軟	er gnie
+耳麥	er maq
+耳幅	er foq
+耳殼	er khoq
+耳痛	er thon
+耳順	er zen
+耳塞	er seq
+耳廓	er khoq
+耳罩	er tsau
+耳裏	er li
+耳際	er tsi
+耳飾	er seq
+耳鼓	er ku
+耳聞	er ven
+耳膜	er moq
 耳膜炎	
-耳蝸	r̀ ko
-耳語	r̀ gni
-耳鳴	r̀ min
-耳熟	r̀ zoq
-耳熱	r̀ gniq
-耳輪	r̀ len
-耳機	r̀ ci
+耳蝸	er ko
+耳語	er gni
+耳鳴	er min
+耳熟	er zoq
+耳熱	er gniq
+耳輪	er len
+耳機	er ci
 耳機	
-耳頭	r̀ deu
-耳環	r̀ guae
-耳翼	r̀ yiq
-耳邊	r̀ pie
-耳識	r̀ seq
-耳鏡	r̀ cin
-耳聽	r̀ thin
-耳聾	r̀ lon
-耳鬢	r̀ pin
+耳頭	er deu
+耳環	er guae
+耳翼	er yiq
+耳邊	er pie
+耳識	er seq
+耳鏡	er cin
+耳聽	er thin
+耳聾	er lon
+耳鬢	er pin
 肉丁	
 肉用	
 肉皮	
@@ -17509,7 +17509,7 @@ use_preset_vocabulary: true
 伴月	be yiq
 伴生	be sen
 伴你	
-伴兒	be r
+伴兒	be er
 伴食	be zeq
 伴宴	
 伴著	be zaq
@@ -20010,7 +20010,7 @@ use_preset_vocabulary: true
 事干	
 事不	
 事件	
-事兒	zy r
+事兒	zy er
 事物	zy veq
 事長	zy tsan
 事相	
@@ -20186,20 +20186,20 @@ use_preset_vocabulary: true
 依約	
 依從	
 依賴	
-兒女	r gni
-兒子	r tsy
+兒女	er gni
+兒子	er tsy
 兒子	ng tsy
-兒化	r ho
-兒郎	r laon
-兒科	r khu
-兒茶	r zo
-兒孫	r sen
-兒時	r zy
-兒馬	r mo
-兒童	r don
-兒媳	r siq
-兒歌	r ku
-兒戲	r shi
+兒化	er ho
+兒郎	er laon
+兒科	er khu
+兒茶	er zo
+兒孫	er sen
+兒時	er zy
+兒馬	er mo
+兒童	er don
+兒媳	er siq
+兒歌	er ku
+兒戲	er shi
 兔子燈	
 兔唇	
 兔崽	
@@ -21745,7 +21745,7 @@ use_preset_vocabulary: true
 沾濕	
 沾黏	
 沿江	ye kaon
-沿兒	ye r
+沿兒	ye er
 沿沿頭	
 沿革	
 沿馬路	ye mo lu
@@ -23421,7 +23421,7 @@ use_preset_vocabulary: true
 威聲	
 娃兒	
 娃崽	
-孩兒	ghe r
+孩兒	ghe er
 孩氣	
 孩提	
 客人	khaq gnin
@@ -25716,7 +25716,7 @@ use_preset_vocabulary: true
 風吹	
 風沙	
 風車	
-風兒	fon r
+風兒	fon er
 風味	
 風林	
 風波	
@@ -25967,7 +25967,7 @@ use_preset_vocabulary: true
 個把月	keu poq yiq
 個系	
 個例	keu li
-個兒	keu r
+個兒	keu er
 個性	keu sin
 個股	keq ku
 個很	keu hen
@@ -26082,7 +26082,7 @@ use_preset_vocabulary: true
 偌大	
 健壯	
 健忘	jie vaon
-健兒	jie r
+健兒	jie er
 健將	
 健實	
 兼且	
@@ -26293,7 +26293,7 @@ use_preset_vocabulary: true
 奘力	
 奘貓	
 娘大囡大	gnian du no du
-娘兒	gnian r
+娘兒	gnian er
 娘姨	
 娘胎	
 娘哰囡兒	
@@ -26635,7 +26635,7 @@ use_preset_vocabulary: true
 息訟	
 悄靜	
 悄聲	
-悅耳	yiq r̀
+悅耳	yiq er
 悅色	
 悍將	ghe tsian
 悍馬	ghe mo
@@ -26999,7 +26999,7 @@ use_preset_vocabulary: true
 核示	
 核字	
 核批	
-核兒	gheq r
+核兒	gheq er
 核定	
 核查	
 核計	
@@ -27488,7 +27488,7 @@ use_preset_vocabulary: true
 病休	bin shieu
 病死	bin si
 病床	
-病兒	bin r
+病兒	bin er
 病房間	bin vaon kae
 病況	bin khuaon
 病毒	bin doq
@@ -28162,7 +28162,7 @@ use_preset_vocabulary: true
 託幼	
 託交	
 託言	thoq gnie
-託兒	thoq r
+託兒	thoq er
 託媒	
 託夢	
 託盤	
@@ -29419,7 +29419,7 @@ use_preset_vocabulary: true
 圈地	
 圈佔	
 圈弄	
-圈兒	chie r
+圈兒	chie er
 圈定	
 圈肥	chie vi
 圈套	
@@ -30798,10 +30798,10 @@ use_preset_vocabulary: true
 眼目前	
 眼光	ae kuaon
 眼污	
-眼耳	ae r̀
+眼耳	ae er
 眼花綠花	
 眼見	ae cie
-眼兒	ae r
+眼兒	ae er
 眼刷毛	
 眼泡皮	
 眼波	ae pu
@@ -32468,7 +32468,7 @@ use_preset_vocabulary: true
 幾份	
 幾兆	
 幾束	
-幾兒	ci r
+幾兒	ci er
 幾個	ci keq
 幾個	ci keu
 幾條	
@@ -33816,7 +33816,7 @@ use_preset_vocabulary: true
 猢猻	
 猢猻屁股	
 猩紅	
-猴兒	gheu r
+猴兒	gheu er
 猴腦	
 猴臉	
 猶大	
@@ -33846,7 +33846,7 @@ use_preset_vocabulary: true
 畫外	
 畫行	gho ghaon
 畫夾	gho kaq
-畫兒	gho r
+畫兒	gho er
 畫卷	gho cie
 畫底	
 畫苑	
@@ -34488,7 +34488,7 @@ use_preset_vocabulary: true
 葉片	yiq phie
 葉多	yiq tu
 葉尖	yiq tsie
-葉耳	yiq r̀
+葉耳	yiq er
 葉肉	yiq gnioq
 葉舌	
 葉芝	yiq tsy
@@ -35333,7 +35333,7 @@ use_preset_vocabulary: true
 傻冒	
 傻勁	
 傻幹	
-傾耳	chin r̀
+傾耳	chin er
 傾泄	
 傾空	
 傾軋	
@@ -35730,7 +35730,7 @@ use_preset_vocabulary: true
 愛死	
 愛見	
 愛車	
-愛兒	e r
+愛兒	e er
 愛拼	e phin
 愛物	e veq
 愛玩	
@@ -36688,7 +36688,7 @@ use_preset_vocabulary: true
 義行	gni yin
 義利	
 義弟	gni di
-義兒	gni r
+義兒	gni er
 義從	gni zon
 義疏	gni sy
 義塚	
@@ -36853,7 +36853,7 @@ use_preset_vocabulary: true
 蒸穀米	
 蒼朮	
 蒼生	tsaon sen
-蒼耳	tsaon r̀
+蒼耳	tsaon er
 蒼勁	
 蒼啞	
 蓄奴	
@@ -37081,7 +37081,7 @@ use_preset_vocabulary: true
 話弗出	gho veq tsheq
 話他	
 話匣	
-話兒	gho r
+話兒	gho er
 話要	
 話搭頭	
 話費	gho fi
@@ -38174,7 +38174,7 @@ use_preset_vocabulary: true
 熬湯	ghau thaon
 熬粥	ghau tsoq
 熬磨	
-爾耳	r̀ r̀
+爾耳	er er
 獄卒	
 獄訟	
 瑤光	
@@ -39749,7 +39749,7 @@ use_preset_vocabulary: true
 樟木箱	
 樣件	
 樣色	
-樣兒	ian r
+樣兒	ian er
 樣表	
 樣態	
 橡皮魚	
@@ -39758,7 +39758,7 @@ use_preset_vocabulary: true
 歐人	eu gnin
 歐化	eu ho
 歐氏	eu zy
-歐耳	eu r̀
+歐耳	eu er
 歐弟	
 歐姆	
 歐拉	
@@ -39878,7 +39878,7 @@ use_preset_vocabulary: true
 皺襇	
 盤牙	
 盤出去	
-盤兒	be r
+盤兒	be er
 盤恆	
 盤查	be zo
 盤柱	
@@ -40827,7 +40827,7 @@ use_preset_vocabulary: true
 學好	ghoq hau
 學年	
 學成	ghoq zen
-學而	ghoq r
+學而	ghoq er
 學舌	ghoq zeq
 學行	ghoq yin
 學位	ghoq wi
@@ -41006,7 +41006,7 @@ use_preset_vocabulary: true
 樹人	zy gnin
 樹下	zy o
 樹丫	zy o
-樹兒	zy r
+樹兒	zy er
 樹枒杈	
 樹枝	
 樹疤	
@@ -42247,7 +42247,7 @@ use_preset_vocabulary: true
 總弗會得	tson feq wi teq
 總共	
 總合	
-總而言之	tson r gnie tsy
+總而言之	tson er gnie tsy
 總行	
 總找	
 總把	
@@ -42540,7 +42540,7 @@ use_preset_vocabulary: true
 褻玩	
 褻瀆	
 襄助	
-襖兒	au r
+襖兒	au er
 謄印	
 謄抄	
 講一聲	
