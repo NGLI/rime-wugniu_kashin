@@ -1,16 +1,16 @@
 # Rime dictionary
 # encoding: utf-8
 #
-# wugniu_donshian - 吴语（桐乡）
+# wugniu_donshian - 吳語（桐鄉）
 #
 # Author:
 #
-# - 雪心居士˂sihsin@live.com˃
+# - 雪心居士 <sihsin@live.com>
 #
 
 ---
 name: wugniu_donshian
-version: "2019.11.27"
+version: "2019.12.01"
 sort: by_weight
 use_preset_vocabulary: true
 ...
